@@ -1,0 +1,10 @@
+sentence-transformers
+tqdm
+torch
+transformers
+numpy
+qdrant-client
+mistralai
+python-dotenv
+langsmith
+langchain

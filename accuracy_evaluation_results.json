@@ -1,0 +1,355 @@
+{
+  "overall_metrics": {
+    "average_relevance": 0.604,
+    "average_ranking_quality": 1.0,
+    "average_generation_quality": 0.7117989083969186,
+    "average_retrieval_time": 0.4346490383148193,
+    "average_generation_time": 10.409151816368103,
+    "total_queries": 10,
+    "categories_tested": 10
+  },
+  "results_by_category": {
+    "product_strategy": [
+      {
+        "query": "What are the key product development priorities?",
+        "retrieval_time": 0.6335287094116211,
+        "generation_time": 12.258790493011475,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 1.0,
+          "keyword_relevance": 1.0,
+          "speaker_accuracy": 0.4,
+          "overall_relevance": 0.8800000000000001
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.10961776018962699
+        },
+        "generation": {
+          "confidence": 0.47944019498403856,
+          "length_score": 1.0,
+          "keyword_coverage": 1.0,
+          "source_utilization": 1.0,
+          "overall_quality": 0.7917760779936155,
+          "answer_length": 4193
+        },
+        "confidence": 0.47944019498403856,
+        "top_score": 0.4083822991615426
+      }
+    ],
+    "action_items": [
+      {
+        "query": "Show me high priority action items",
+        "retrieval_time": 0.4179203510284424,
+        "generation_time": 12.107009410858154,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 0.0,
+          "keyword_relevance": 0.0,
+          "speaker_accuracy": 1.0,
+          "overall_relevance": 0.2
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.0
+        },
+        "generation": {
+          "confidence": 0.24476439205853956,
+          "length_score": 1.0,
+          "keyword_coverage": 0.8,
+          "source_utilization": 1.0,
+          "overall_quality": 0.6379057568234158,
+          "answer_length": 4377
+        },
+        "confidence": 0.24476439205853956,
+        "top_score": 0.20397032671544965
+      }
+    ],
+    "funding": [
+      {
+        "query": "What did Arjun discuss about funding and investment?",
+        "retrieval_time": 0.410844087600708,
+        "generation_time": 14.978729486465454,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 1.0,
+          "keyword_relevance": 1.0,
+          "speaker_accuracy": 0.0,
+          "overall_relevance": 0.8
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.0
+        },
+        "generation": {
+          "confidence": 0.5209003718657391,
+          "length_score": 1.0,
+          "keyword_coverage": 0.6,
+          "source_utilization": 1.0,
+          "overall_quality": 0.6883601487462957,
+          "answer_length": 4277
+        },
+        "confidence": 0.5209003718657391,
+        "top_score": 0.4340836432214493
+      }
+    ],
+    "compliance": [
+      {
+        "query": "Which meetings discussed regulatory compliance?",
+        "retrieval_time": 0.4208807945251465,
+        "generation_time": 3.9301693439483643,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 0.1,
+          "keyword_relevance": 0.1,
+          "speaker_accuracy": 1.0,
+          "overall_relevance": 0.28
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.043084631780946916
+        },
+        "generation": {
+          "confidence": 0.4082431048384992,
+          "length_score": 1.0,
+          "keyword_coverage": 0.8,
+          "source_utilization": 1.0,
+          "overall_quality": 0.7032972419353997,
+          "answer_length": 1245
+        },
+        "confidence": 0.4082431048384992,
+        "top_score": 0.340202587365416
+      }
+    ],
+    "market_strategy": [
+      {
+        "query": "What are the main concerns about market expansion?",
+        "retrieval_time": 0.4185805320739746,
+        "generation_time": 10.979970932006836,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 1.0,
+          "keyword_relevance": 0.7,
+          "speaker_accuracy": 1.0,
+          "overall_relevance": 0.8499999999999999
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.24347538112934514
+        },
+        "generation": {
+          "confidence": 0.6083155755136205,
+          "length_score": 1.0,
+          "keyword_coverage": 0.8,
+          "source_utilization": 1.0,
+          "overall_quality": 0.7833262302054481,
+          "answer_length": 4383
+        },
+        "confidence": 0.6083155755136205,
+        "top_score": 0.5069296462613504
+      }
+    ],
+    "competition": [
+      {
+        "query": "Show me insights about competitive analysis",
+        "retrieval_time": 0.41474318504333496,
+        "generation_time": 14.910072088241577,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 0.2,
+          "keyword_relevance": 1.0,
+          "speaker_accuracy": 1.0,
+          "overall_relevance": 0.76
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.13615033901653964
+        },
+        "generation": {
+          "confidence": 0.6961018435316294,
+          "length_score": 1.0,
+          "keyword_coverage": 0.8,
+          "source_utilization": 1.0,
+          "overall_quality": 0.8184407374126518,
+          "answer_length": 4431
+        },
+        "confidence": 0.6961018435316294,
+        "top_score": 0.5800848696096912
+      }
+    ],
+    "technical_tasks": [
+      {
+        "query": "What action items are assigned to technical team?",
+        "retrieval_time": 0.4275028705596924,
+        "generation_time": 7.840245485305786,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 0.7,
+          "keyword_relevance": 0.0,
+          "speaker_accuracy": 1.0,
+          "overall_relevance": 0.41000000000000003
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.01835826203307737
+        },
+        "generation": {
+          "confidence": 0.2796150773106154,
+          "length_score": 1.0,
+          "keyword_coverage": 0.4,
+          "source_utilization": 1.0,
+          "overall_quality": 0.5318460309242462,
+          "answer_length": 2169
+        },
+        "confidence": 0.2796150773106154,
+        "top_score": 0.2347363046613728
+      }
+    ],
+    "ai_technology": [
+      {
+        "query": "Which meetings had discussions about AI integration?",
+        "retrieval_time": 0.3960740566253662,
+        "generation_time": 12.35489535331726,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 1.0,
+          "keyword_relevance": 1.0,
+          "speaker_accuracy": 1.0,
+          "overall_relevance": 1.0
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.0
+        },
+        "generation": {
+          "confidence": 0.5180305566233414,
+          "length_score": 1.0,
+          "keyword_coverage": 0.4,
+          "source_utilization": 1.0,
+          "overall_quality": 0.6272122226493365,
+          "answer_length": 4077
+        },
+        "confidence": 0.5180305566233414,
+        "top_score": 0.4316921305194512
+      }
+    ],
+    "risk_management": [
+      {
+        "query": "What are the key risks identified in recent meetings?",
+        "retrieval_time": 0.37372565269470215,
+        "generation_time": 6.833423137664795,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 1.0,
+          "keyword_relevance": 0.0,
+          "speaker_accuracy": 1.0,
+          "overall_relevance": 0.5
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.0
+        },
+        "generation": {
+          "confidence": 0.53429638823301,
+          "length_score": 1.0,
+          "keyword_coverage": 0.8,
+          "source_utilization": 1.0,
+          "overall_quality": 0.753718555293204,
+          "answer_length": 2566
+        },
+        "confidence": 0.53429638823301,
+        "top_score": 0.445246990194175
+      }
+    ],
+    "product_planning": [
+      {
+        "query": "Show me decisions made about product roadmap",
+        "retrieval_time": 0.4326901435852051,
+        "generation_time": 7.898212432861328,
+        "num_retrieved": 10,
+        "relevance": {
+          "type_accuracy": 0.2,
+          "keyword_relevance": 0.2,
+          "speaker_accuracy": 1.0,
+          "overall_relevance": 0.36
+        },
+        "ranking": {
+          "score_monotonicity": 1.0,
+          "score_distribution": 0.046806913541560975
+        },
+        "generation": {
+          "confidence": 0.45526520496393247,
+          "length_score": 1.0,
+          "keyword_coverage": 1.0,
+          "source_utilization": 1.0,
+          "overall_quality": 0.782106081985573,
+          "answer_length": 2932
+        },
+        "confidence": 0.45526520496393247,
+        "top_score": 0.37938767080327707
+      }
+    ]
+  },
+  "detailed_scores": {
+    "relevance_scores": [
+      0.8800000000000001,
+      0.2,
+      0.8,
+      0.28,
+      0.8499999999999999,
+      0.76,
+      0.41000000000000003,
+      1.0,
+      0.5,
+      0.36
+    ],
+    "ranking_scores": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "generation_scores": [
+      0.7917760779936155,
+      0.6379057568234158,
+      0.6883601487462957,
+      0.7032972419353997,
+      0.7833262302054481,
+      0.8184407374126518,
+      0.5318460309242462,
+      0.6272122226493365,
+      0.753718555293204,
+      0.782106081985573
+    ],
+    "retrieval_times": [
+      0.6335287094116211,
+      0.4179203510284424,
+      0.410844087600708,
+      0.4208807945251465,
+      0.4185805320739746,
+      0.41474318504333496,
+      0.4275028705596924,
+      0.3960740566253662,
+      0.37372565269470215,
+      0.4326901435852051
+    ],
+    "generation_times": [
+      12.258790493011475,
+      12.107009410858154,
+      14.978729486465454,
+      3.9301693439483643,
+      10.979970932006836,
+      14.910072088241577,
+      7.840245485305786,
+      12.35489535331726,
+      6.833423137664795,
+      7.898212432861328
+    ]
+  }
+}
