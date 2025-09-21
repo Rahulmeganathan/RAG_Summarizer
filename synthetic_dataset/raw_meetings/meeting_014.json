@@ -1,0 +1,67 @@
+{
+  "meeting_id": "MTG_2024_03_15_014",
+  "meeting_date": "2024-03-15",
+  "meeting_time": "11:30",
+  "location": "InsureAI Office, Koramangala, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Siddharth Iyer",
+      "role": "team"
+    }
+  ],
+  "topics": [
+    "Investor Pitch & Feedback Sessions",
+    "Market Strategy & Competition Analysis"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the investor pitch & feedback sessions and where we stand."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Our latency is improving, showing 92% accuracy now."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The thing is... our latency is showing 93% accuracy, and the MRR is improving."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Competition is asking about similar features. How should we differentiate our user adoption?"
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the model drift issues and expect MRR to improve next quarter."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Siddharth Iyer",
+      "text": "The training data latency is concerning customers. We need to optimize."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Review ML pipeline optimization for improved accuracy",
+      "due_date": "2024-03-22",
+      "priority": "medium"
+    },
+    {
+      "assigned_to": "Siddharth Iyer",
+      "task": "Implement API latency improvements and performance monitoring",
+      "due_date": "2024-03-29",
+      "priority": "high"
+    }
+  ]
+}

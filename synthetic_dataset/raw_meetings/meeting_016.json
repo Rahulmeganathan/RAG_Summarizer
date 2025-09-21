@@ -1,0 +1,67 @@
+{
+  "meeting_id": "MTG_2024_03_31_016",
+  "meeting_date": "2024-03-31",
+  "meeting_time": "11:15",
+  "location": "InsureAI Office, Koramangala, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Kavya Reddy",
+      "role": "team"
+    }
+  ],
+  "topics": [
+    "AI Insurance POC Development",
+    "Product Demo & Technical Reviews"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the ai insurance poc development and where we stand."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Kavya Reddy",
+      "text": "Competition is asking about similar features. How should we differentiate our product-market fit?"
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The Series A timeline is tight, but we're confident about scalability."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Kavya Reddy",
+      "text": "Our API integration is improving, showing 86% accuracy now."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the API integration issues and expect SAM to improve next quarter."
+    },
+    {
+      "timestamp": "00:10:00",
+      "speaker": "Kavya Reddy",
+      "text": "We need more training data for the accuracy. Should we try a different approach?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Review ML pipeline optimization for improved accuracy",
+      "due_date": "2024-04-21",
+      "priority": "medium"
+    },
+    {
+      "assigned_to": "Kavya Reddy",
+      "task": "Implement API latency improvements and performance monitoring",
+      "due_date": "2024-04-14",
+      "priority": "high"
+    }
+  ]
+}

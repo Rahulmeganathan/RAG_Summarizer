@@ -1,0 +1,64 @@
+{
+  "meeting_id": "MTG_2024_03_14_011",
+  "meeting_date": "2024-03-14",
+  "meeting_time": "12:00",
+  "location": "Caf\u00e9 Coffee Day, HSR Layout",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "peer"
+    }
+  ],
+  "topics": [
+    "Technology Infrastructure & Scaling",
+    "Product Demo & Technical Reviews"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I think we need to address both technology infrastructure & scaling and product demo & technical reviews today."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Rohan Mehta",
+      "text": "Have you tried this approach for POC? It worked for us."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The thing is... our training data is showing 94% accuracy, and the burn rate is improving."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Rohan Mehta",
+      "text": "The MRR struggle is real for all of us in insurtech."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The runway extension timeline is tight, but we're confident about product-market fit."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Rohan Mehta",
+      "text": "The LTV struggle is real for all of us in insurtech."
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about ARR, but our product-market fit metrics are strong."
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Rohan Mehta",
+      "text": "Have you tried this approach for user adoption? It worked for us."
+    }
+  ],
+  "action_items": []
+}

@@ -1,0 +1,80 @@
+{
+  "meeting_id": "MTG_2024_06_25_055",
+  "meeting_date": "2024-06-25",
+  "meeting_time": "15:30",
+  "location": "Nexus Venture Partners Office, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "David Chen",
+      "role": "investor"
+    },
+    {
+      "name": "Priya Sharma",
+      "role": "investor"
+    }
+  ],
+  "topics": [
+    "Team Building & Hiring",
+    "Technology Infrastructure & Scaling"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Thank you for taking this meeting. Our AI insurance POC is showing 94% accuracy in claims processing."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "David Chen",
+      "text": "How does this scale across markets? I'm seeing competition heat up in insurtech. What's your competitive moat and user adoption?"
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Priya Sharma",
+      "text": "I need to see the TAM analysis I'm seeing competition heat up in insurtech. What's your competitive moat and user adoption?"
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The thing is... our training data is showing 90% accuracy, and the MRR is improving."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "David Chen",
+      "text": "How does this scale across markets? What's your churn looking like? I need to see clear unit economics."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The Series A timeline is tight, but we're confident about MVP."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Priya Sharma",
+      "text": "I need to see the TAM analysis How do you plan to scale this across different insurance verticals? What's your burn rate?"
+    },
+    {
+      "timestamp": "00:10:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about SAM, but our SaaS metrics metrics are strong."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Priya Sharma",
+      "text": "Show me customer acquisition cost How do you plan to scale this across different insurance verticals? What's your LTV?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Prepare detailed CAC and LTV analysis for Team Building & Hiring",
+      "due_date": "2024-07-16",
+      "priority": "high"
+    }
+  ]
+}

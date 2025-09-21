@@ -1,0 +1,77 @@
+{
+  "meeting_id": "MTG_2024_05_08_036",
+  "meeting_date": "2024-05-08",
+  "meeting_time": "18:30",
+  "location": "Caf\u00e9 Coffee Day near home",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Meera Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "Stress Management & Work-Life Balance"
+  ],
+  "meeting_type": "mixed",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the family financial concerns and where we stand."
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Meera Vasanth",
+      "text": "The stress is affecting your health. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Maybe we can set some boundaries - no work calls after 9 PM?"
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Meera Vasanth",
+      "text": "You're working 16-hour days. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Maybe we can set some boundaries - no work calls after 9 PM?"
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Meera Vasanth",
+      "text": "You're working 16-hour days. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance the business demands with our family needs."
+    },
+    {
+      "timestamp": "00:17:00",
+      "speaker": "Meera Vasanth",
+      "text": "What about our savings?. What happens to our home loan and savings if this doesn't work out?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Create work-life balance plan and share with family",
+      "due_date": "2024-05-15",
+      "priority": "medium"
+    },
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Schedule weekly family check-ins to discuss business progress",
+      "due_date": "2024-05-15",
+      "priority": "low"
+    }
+  ]
+}

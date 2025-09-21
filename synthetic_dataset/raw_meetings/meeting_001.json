@@ -1,0 +1,70 @@
+{
+  "meeting_id": "MTG_2024_01_18_001",
+  "meeting_date": "2024-01-18",
+  "meeting_time": "19:30",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Meera Vasanth",
+      "role": "family"
+    },
+    {
+      "name": "Dr. Krishnan Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "AI Insurance POC Development"
+  ],
+  "meeting_type": "family",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand your worries about our financial situation..."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Meera Vasanth",
+      "text": "What about our savings?. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Are you sure about this risk?. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Give me three more months. If we don't see progress, I'll reconsider."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Meera Vasanth",
+      "text": "You're working 16-hour days. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance everything, but the investor meetings are crucial right now."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Banking was stable. The uncertainty is hard on all of us. Do you have a backup plan?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Set boundaries for work hours and family time",
+      "due_date": "2024-01-21",
+      "priority": "medium"
+    }
+  ]
+}

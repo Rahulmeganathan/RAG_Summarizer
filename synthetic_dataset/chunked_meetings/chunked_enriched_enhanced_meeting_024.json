@@ -1,0 +1,126 @@
+[
+  {
+    "chunk_id": "MTG_2024_03_26_024_00:00",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Arjun Vasanth",
+    "role": "founder",
+    "text": "I've been thinking a lot about our conversation last week, and I realize I haven't been doing a good job of balancing my commitment to the business with my responsibilities to our family. The pressure from investors and the demands of building this company have been consuming me, but I don't want that to come at the expense of our relationship or my health. At the same time, I truly believe we're on the verge of something extraordinary with this AI insurance platform, and I'm struggling with how to manage both priorities effectively.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_01:43",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Kavya Reddy",
+    "role": "team",
+    "text": "From a technical perspective, our API integration process has improved significantly. We can now onboard new insurance partners in under 48 hours, which is a major competitive advantage. However, I'm seeing some concerning patterns in our customer feedback. Several pilot customers have mentioned that our user interface isn't intuitive for their claims adjusters. Remember, these are people who have been doing manual claims processing for decades - they need a very simple, guided experience. I think we should invest in UX research and redesign some of our core workflows. Also, we need to address the latency issues that come up during peak processing periods. Some customers are experiencing delays when they submit large batches of claims simultaneously.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_04:28",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Siddharth Iyer",
+    "role": "team",
+    "text": "From a technical perspective, our API integration process has improved significantly. We can now onboard new insurance partners in under 48 hours, which is a major competitive advantage. However, I'm seeing some concerning patterns in our customer feedback. Several pilot customers have mentioned that our user interface isn't intuitive for their claims adjusters. Remember, these are people who have been doing manual claims processing for decades - they need a very simple, guided experience. I think we should invest in UX research and redesign some of our core workflows. Also, we need to address the latency issues that come up during peak processing periods. Some customers are experiencing delays when they submit large batches of claims simultaneously.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_06:41",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Arjun Vasanth",
+    "role": "founder",
+    "text": "You're absolutely right about the competitive landscape, and I've been thinking about this extensively. Our sustainable competitive advantage comes from three key areas: first, our deep integration with Indian regulatory requirements - we've spent 18 months working directly with IRDAI officials to ensure our AI models comply with local insurance regulations. Second, our data advantage - we've processed over 2.5 million historical claims from our pilot partners, which gives us training data that competitors simply don't have access to. Third, our technical architecture is genuinely differentiated - we're using a novel approach that combines transformer-based NLP models with computer vision for document analysis, wrapped in an ensemble framework that continuously learns from human feedback. It would take a competitor at least 12-18 months to replicate this technical stack, assuming they could access similar training data.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_09:46",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Siddharth Iyer",
+    "role": "team",
+    "text": "Arjun, I've been working on the ML pipeline optimization for the past month, and I'm seeing some encouraging improvements in our model performance. We've managed to reduce false positive rates by 12% while maintaining our overall accuracy above 94%. The new ensemble approach we implemented is working particularly well for complex fraud detection scenarios. However, I'm concerned about our data quality issues. We're still seeing inconsistencies in how different insurance companies format their claims data, and this is affecting our model's reliability. I think we need to invest more time in building robust data preprocessing pipelines. Also, our current infrastructure might not scale well beyond 10,000 claims per day. We should start planning for a more distributed architecture if we expect to handle enterprise-level volumes.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_12:06",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Arjun Vasanth",
+    "role": "founder",
+    "text": "I appreciate those concerns, and let me address them directly with some specific data points. Our customer acquisition cost has actually been trending downward as we've refined our sales process - we're now at about $12,000 per enterprise customer, which compares favorably to the industry standard of $15-20K for B2B SaaS solutions in this space. The lifetime value calculation is admittedly complex in insurance because contracts tend to be multi-year with variable usage, but our pilot customers are processing an average of 1,200 claims per month through our platform, which translates to roughly $8,000 in monthly recurring revenue per customer. If we can maintain that usage level, we're looking at LTV of around $180,000 per customer over a three-year period. The challenge, as you've rightly identified, is scaling our sales efforts while maintaining these unit economics.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_15:05",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Kavya Reddy",
+    "role": "team",
+    "text": "From a technical perspective, our API integration process has improved significantly. We can now onboard new insurance partners in under 48 hours, which is a major competitive advantage. However, I'm seeing some concerning patterns in our customer feedback. Several pilot customers have mentioned that our user interface isn't intuitive for their claims adjusters. Remember, these are people who have been doing manual claims processing for decades - they need a very simple, guided experience. I think we should invest in UX research and redesign some of our core workflows. Also, we need to address the latency issues that come up during peak processing periods. Some customers are experiencing delays when they submit large batches of claims simultaneously.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_17:48",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Arjun Vasanth",
+    "role": "founder",
+    "text": "I appreciate those concerns, and let me address them directly with some specific data points. Our customer acquisition cost has actually been trending downward as we've refined our sales process - we're now at about $12,000 per enterprise customer, which compares favorably to the industry standard of $15-20K for B2B SaaS solutions in this space. The lifetime value calculation is admittedly complex in insurance because contracts tend to be multi-year with variable usage, but our pilot customers are processing an average of 1,200 claims per month through our platform, which translates to roughly $8,000 in monthly recurring revenue per customer. If we can maintain that usage level, we're looking at LTV of around $180,000 per customer over a three-year period. The challenge, as you've rightly identified, is scaling our sales efforts while maintaining these unit economics.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_20:27",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Kavya Reddy",
+    "role": "team",
+    "text": "Arjun, I've been working on the ML pipeline optimization for the past month, and I'm seeing some encouraging improvements in our model performance. We've managed to reduce false positive rates by 12% while maintaining our overall accuracy above 94%. The new ensemble approach we implemented is working particularly well for complex fraud detection scenarios. However, I'm concerned about our data quality issues. We're still seeing inconsistencies in how different insurance companies format their claims data, and this is affecting our model's reliability. I think we need to invest more time in building robust data preprocessing pipelines. Also, our current infrastructure might not scale well beyond 10,000 claims per day. We should start planning for a more distributed architecture if we expect to handle enterprise-level volumes.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_23:08",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Arjun Vasanth",
+    "role": "founder",
+    "text": "Let me walk you through our regulatory strategy in detail, because I think this is actually one of our strongest moats. We've been working closely with IRDAI for the past year, and we have preliminary approval for our AI models under their current guidelines for automated claims processing. More importantly, we've been participating in their working group on AI governance in insurance, which means we have early insight into upcoming regulatory changes. Our compliance framework includes full audit trails for every AI decision, explainability features that allow human adjusters to understand why our algorithm reached specific conclusions, and fail-safes that escalate complex cases to human review. We're not just compliant with current regulations - we're helping to shape future regulatory frameworks for AI in insurance.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_25:40",
+    "meeting_id": "MTG_2024_03_26_024",
+    "speaker": "Kavya Reddy",
+    "role": "team",
+    "text": "From a technical perspective, our API integration process has improved significantly. We can now onboard new insurance partners in under 48 hours, which is a major competitive advantage. However, I'm seeing some concerning patterns in our customer feedback. Several pilot customers have mentioned that our user interface isn't intuitive for their claims adjusters. Remember, these are people who have been doing manual claims processing for decades - they need a very simple, guided experience. I think we should invest in UX research and redesign some of our core workflows. Also, we need to address the latency issues that come up during peak processing periods. Some customers are experiencing delays when they submit large batches of claims simultaneously.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_action_1",
+    "meeting_id": "MTG_2024_03_26_024",
+    "task": "Review and approve the ML pipeline optimization roadmap and allocate resources for infrastructure scaling to handle 50K+ claims per day",
+    "assigned_to": "Arjun Vasanth",
+    "due_date": "2024-04-16",
+    "priority": "medium",
+    "type": "action_item"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_action_2",
+    "meeting_id": "MTG_2024_03_26_024",
+    "task": "Conduct user experience research with pilot customers and propose UI/UX improvements for the claims processing dashboard",
+    "assigned_to": "Siddharth Iyer",
+    "due_date": "2024-04-02",
+    "priority": "high",
+    "type": "action_item"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_insight_1",
+    "meeting_id": "MTG_2024_03_26_024",
+    "text": "Overall positive sentiment in the meeting",
+    "type": "key_insight"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_insight_2",
+    "meeting_id": "MTG_2024_03_26_024",
+    "text": "High stress levels detected in conversation",
+    "type": "key_insight"
+  },
+  {
+    "chunk_id": "MTG_2024_03_26_024_insight_3",
+    "meeting_id": "MTG_2024_03_26_024",
+    "text": "Business pressure affecting emotional state",
+    "type": "key_insight"
+  }
+]

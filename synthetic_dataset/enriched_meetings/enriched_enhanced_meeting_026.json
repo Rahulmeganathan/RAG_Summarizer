@@ -1,0 +1,350 @@
+{
+  "meeting_id": "MTG_2024_03_29_026",
+  "meeting_date": "2024-03-29",
+  "meeting_time": "19:00",
+  "location": "Café Coffee Day near home",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Meera Arjun",
+      "role": "family"
+    },
+    {
+      "name": "Vikram Malhotra",
+      "role": "mentor"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "Stress Management & Work-Life Balance"
+  ],
+  "meeting_type": "mixed",
+  "minutes": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I've been thinking a lot about our conversation last week, and I realize I haven't been doing a good job of balancing my commitment to the business with my responsibilities to our family. The pressure from investors and the demands of building this company have been consuming me, but I don't want that to come at the expense of our relationship or my health. At the same time, I truly believe we're on the verge of something extraordinary with this AI insurance platform, and I'm struggling with how to manage both priorities effectively."
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "Meera Arjun",
+      "text": "I understand that you're passionate about this technology and the potential impact it could have, but I need to know that you have a realistic backup plan. What if the funding doesn't come through? What if the customers don't materialize the way you expect? You've invested two years of our lives and most of our savings into this venture, and while I admire your dedication, I'm scared about what happens if it doesn't work out. We're not 22 years old anymore - we need to think about our long-term financial security, starting a family, buying a home. I've been supportive of your entrepreneurial dreams, but I need to see some concrete milestones and timelines. How much longer are we going to live in this state of uncertainty? What specific goals need to be achieved for you to consider this venture successful?"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "Vikram Malhotra",
+      "text": "From a fundraising perspective, investors at this stage want to see momentum, not just potential. They want evidence that you can acquire customers systematically and retain them successfully. What's your monthly recurring revenue growth rate? What's your customer retention rate? How much are customers expanding their usage over time? These metrics matter more than your technology's accuracy or your total addressable market size. Focus on creating a compelling growth story with clear milestones and predictable patterns. Also, consider whether you're ready for the operational complexity that comes with scaling. Do you have the infrastructure, processes, and team to support 10x more customers? Scaling too fast without proper foundations can kill a promising company."
+    },
+    {
+      "timestamp": "07:03",
+      "speaker": "Arjun Vasanth",
+      "text": "I've been struggling with this balance between pursuing an opportunity that could transform our lives and maintaining the stability and happiness that you deserve right now. The business reality is that we're at a critical juncture - the next three months will largely determine whether this venture succeeds or fails. But the personal reality is that I can't achieve business success at the expense of losing the most important relationships in my life. I think the solution has to involve better boundaries and more realistic expectations. Instead of working seven days a week, I need to protect our time together and trust that focused, strategic work will be more effective than exhausted, round-the-clock grinding."
+    },
+    {
+      "timestamp": "10:11",
+      "speaker": "Vikram Malhotra",
+      "text": "From a fundraising perspective, investors at this stage want to see momentum, not just potential. They want evidence that you can acquire customers systematically and retain them successfully. What's your monthly recurring revenue growth rate? What's your customer retention rate? How much are customers expanding their usage over time? These metrics matter more than your technology's accuracy or your total addressable market size. Focus on creating a compelling growth story with clear milestones and predictable patterns. Also, consider whether you're ready for the operational complexity that comes with scaling. Do you have the infrastructure, processes, and team to support 10x more customers? Scaling too fast without proper foundations can kill a promising company."
+    },
+    {
+      "timestamp": "12:41",
+      "speaker": "Arjun Vasanth",
+      "text": "What I've learned over these past months is that sustainable success requires sustainable practices. I can't build a company that lasts if I burn out in the process, and I can't build wealth that matters if I lose my family while pursuing it. I want to propose a modified approach: I'll commit to specific work hours and family hours, I'll be more transparent about business milestones and timelines, and I'll actively involve you in major decisions that affect our future. This company should enhance our life together, not replace it. If I can't figure out how to build the business while maintaining our relationship, then I'm not as smart as I think I am."
+    },
+    {
+      "timestamp": "15:25",
+      "speaker": "Vikram Malhotra",
+      "text": "Arjun, having been through multiple startup cycles at Paytm and other ventures, I can see you're hitting the classic inflection point that determines whether a startup scales successfully or struggles indefinitely. The technology you've built is impressive, but the real challenge now is building a repeatable, scalable sales process. In B2B SaaS, especially in enterprise sales, product-market fit isn't just about having a working product - it's about having a product that customers will buy predictably and repeatedly. I've seen brilliant technical teams fail because they couldn't crack the sales puzzle. You need to focus intensively on understanding your customer's buying process. Who are the decision makers? What's their budget cycle? What ROI metrics do they use to justify technology investments? Map out your entire sales funnel and identify where prospects are dropping off."
+    },
+    {
+      "timestamp": "17:51",
+      "speaker": "Arjun Vasanth",
+      "text": "What I've learned over these past months is that sustainable success requires sustainable practices. I can't build a company that lasts if I burn out in the process, and I can't build wealth that matters if I lose my family while pursuing it. I want to propose a modified approach: I'll commit to specific work hours and family hours, I'll be more transparent about business milestones and timelines, and I'll actively involve you in major decisions that affect our future. This company should enhance our life together, not replace it. If I can't figure out how to build the business while maintaining our relationship, then I'm not as smart as I think I am."
+    },
+    {
+      "timestamp": "20:06",
+      "speaker": "Vikram Malhotra",
+      "text": "Arjun, having been through multiple startup cycles at Paytm and other ventures, I can see you're hitting the classic inflection point that determines whether a startup scales successfully or struggles indefinitely. The technology you've built is impressive, but the real challenge now is building a repeatable, scalable sales process. In B2B SaaS, especially in enterprise sales, product-market fit isn't just about having a working product - it's about having a product that customers will buy predictably and repeatedly. I've seen brilliant technical teams fail because they couldn't crack the sales puzzle. You need to focus intensively on understanding your customer's buying process. Who are the decision makers? What's their budget cycle? What ROI metrics do they use to justify technology investments? Map out your entire sales funnel and identify where prospects are dropping off."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Develop a comprehensive plan balancing business milestones with family commitments and share timeline with family members",
+      "due_date": "2024-04-05",
+      "priority": "high"
+    },
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Research and schedule couples counseling sessions to improve communication during this stressful business phase",
+      "due_date": "2024-04-12",
+      "priority": "medium"
+    }
+  ],
+  "enrichment_metadata": {
+    "processing_timestamp": "2025-09-21T16:53:36.614852",
+    "enrichment_version": "1.0_cpu_optimized",
+    "processing_time_seconds": 1758453816.6148522,
+    "models_used": {
+      "sentiment_analysis": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "entity_extraction": "regex_based_patterns"
+    },
+    "analysis_results": {
+      "overall_meeting_sentiment": -0.05394332607587179,
+      "stress_level": "high",
+      "business_optimism": 0.7037037037037037,
+      "emotional_intensity": 0.13333333333333336,
+      "speaker_analyses": [
+        {
+          "timestamp": "00:00",
+          "speaker": "Arjun Vasanth",
+          "role": "founder",
+          "text_length": 539,
+          "word_count": 93,
+          "sentiment_analysis": {
+            "overall_sentiment": -0.48548993468284607,
+            "sentiment_label": "negative",
+            "confidence": 0.48548993468284607,
+            "stress_indicators": [
+              "nse of our relationship or my health. At the same time, I truly be",
+              "The pressure from investors and the demands of building this company have been consuming me, but I don't want that to come at the expense of our relationship or my health",
+              "At the same time, I truly believe we're on the verge of something extraordinary with this AI insurance platform, and I'm struggling with how to manage both priorities effectively"
+            ],
+            "business_optimism": -1.0,
+            "emotional_intensity": 0.6000000000000001
+          }
+        },
+        {
+          "timestamp": "01:43",
+          "speaker": "Meera Arjun",
+          "role": "family",
+          "text_length": 816,
+          "word_count": 141,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5445065498352051,
+            "stress_indicators": [],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.0
+          }
+        },
+        {
+          "timestamp": "04:20",
+          "speaker": "Vikram Malhotra",
+          "role": "mentor",
+          "text_length": 774,
+          "word_count": 113,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5950572490692139,
+            "stress_indicators": [],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.0
+          }
+        },
+        {
+          "timestamp": "07:03",
+          "speaker": "Arjun Vasanth",
+          "role": "founder",
+          "text_length": 719,
+          "word_count": 114,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5069315433502197,
+            "stress_indicators": [
+              "'ve been struggling with this balance between pursuing an opportuni",
+              "I've been struggling with this balance between pursuing an opportunity that could transform our lives and maintaining the stability and happiness that you deserve right now",
+              "Instead of working seven days a week, I need to protect our time together and trust that focused, strategic work will be more effective than exhausted, round-the-clock grinding"
+            ],
+            "business_optimism": 0.3333333333333333,
+            "emotional_intensity": 0.6000000000000001
+          }
+        },
+        {
+          "timestamp": "10:11",
+          "speaker": "Vikram Malhotra",
+          "role": "mentor",
+          "text_length": 774,
+          "word_count": 113,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5950572490692139,
+            "stress_indicators": [],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.0
+          }
+        },
+        {
+          "timestamp": "12:41",
+          "speaker": "Arjun Vasanth",
+          "role": "founder",
+          "text_length": 659,
+          "word_count": 114,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5704365372657776,
+            "stress_indicators": [],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.0
+          }
+        },
+        {
+          "timestamp": "15:25",
+          "speaker": "Vikram Malhotra",
+          "role": "mentor",
+          "text_length": 888,
+          "word_count": 134,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5600042939186096,
+            "stress_indicators": [],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.0
+          }
+        },
+        {
+          "timestamp": "17:51",
+          "speaker": "Arjun Vasanth",
+          "role": "founder",
+          "text_length": 659,
+          "word_count": 114,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5704365372657776,
+            "stress_indicators": [],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.0
+          }
+        },
+        {
+          "timestamp": "20:06",
+          "speaker": "Vikram Malhotra",
+          "role": "mentor",
+          "text_length": 888,
+          "word_count": 134,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5600042939186096,
+            "stress_indicators": [],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.0
+          }
+        }
+      ],
+      "key_insights": [
+        "Neutral to mixed sentiment throughout",
+        "High stress levels detected in conversation"
+      ]
+    },
+    "entity_extraction": {
+      "business_metrics": [
+        {
+          "entity": "monthly recurring revenue",
+          "type": "business_metric",
+          "context": "d retain them successfully. What's your monthly recurring revenue growth rate? What's your customer reten",
+          "position": [
+            1562,
+            1587
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "ROI",
+          "type": "business_metric",
+          "context": "makers? What's their budget cycle? What ROI metrics do they use to justify technolo",
+          "position": [
+            5037,
+            5040
+          ],
+          "confidence": 1.0
+        }
+      ],
+      "technical_terms": [
+        {
+          "entity": "AI",
+          "type": "technical_term",
+          "context": "ge of something extraordinary with this AI insurance platform, and I'm struggling",
+          "position": [
+            450,
+            452
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "accuracy",
+          "type": "technical_term",
+          "context": "rics matter more than your technology's accuracy or your total addressable market size.",
+          "position": [
+            1743,
+            1751
+          ],
+          "confidence": 1.0
+        }
+      ],
+      "financial_terms": [
+        {
+          "entity": "funding",
+          "type": "financial_term",
+          "context": "ve a realistic backup plan. What if the funding doesn't come through? What if the custo",
+          "position": [
+            708,
+            715
+          ],
+          "confidence": 1.0
+        }
+      ],
+      "personal_entities": [
+        {
+          "entity": "family",
+          "type": "personal_entity",
+          "context": "usiness with my responsibilities to our family. The pressure from investors and the de",
+          "position": [
+            180,
+            186
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "relationship",
+          "type": "personal_entity",
+          "context": "want that to come at the expense of our relationship or my health. At the same time, I truly",
+          "position": [
+            333,
+            345
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "health",
+          "type": "personal_entity",
+          "context": "t the expense of our relationship or my health. At the same time, I truly believe we'r",
+          "position": [
+            352,
+            358
+          ],
+          "confidence": 1.0
+        }
+      ],
+      "timeline_entities": []
+    },
+    "meeting_statistics": {
+      "total_speakers": 3,
+      "total_exchanges": 9,
+      "total_word_count": 1070,
+      "average_sentiment_confidence": 0.5542137987083859,
+      "stress_indicators_count": 6,
+      "business_entities_count": 2,
+      "technical_terms_count": 2
+    }
+  }
+}

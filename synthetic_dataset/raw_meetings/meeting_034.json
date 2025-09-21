@@ -1,0 +1,54 @@
+{
+  "meeting_id": "MTG_2024_05_06_034",
+  "meeting_date": "2024-05-06",
+  "meeting_time": "14:45",
+  "location": "Caf\u00e9 Coffee Day, HSR Layout",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "peer"
+    }
+  ],
+  "topics": [
+    "Market Strategy & Competition Analysis",
+    "Regulatory Compliance Discussions"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the market strategy & competition analysis and where we stand."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Rohan Mehta",
+      "text": "We're facing similar training data challenges. Let's share learnings."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about burn rate, but our POC metrics are strong."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Rohan Mehta",
+      "text": "The MRR struggle is real for all of us in insurtech."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Well, I think... our API integration is showing 90% accuracy, and the CAC is improving."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Rohan Mehta",
+      "text": "The SAM struggle is real for all of us in insurtech."
+    }
+  ],
+  "action_items": []
+}

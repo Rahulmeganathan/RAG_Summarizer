@@ -1,0 +1,87 @@
+{
+  "meeting_id": "MTG_2024_05_28_050",
+  "meeting_date": "2024-05-28",
+  "meeting_time": "09:45",
+  "location": "InsureAI Office, Koramangala, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Siddharth Iyer",
+      "role": "team"
+    }
+  ],
+  "topics": [
+    "AI Insurance POC Development",
+    "Investor Pitch & Feedback Sessions"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the ai insurance poc development and where we stand."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Siddharth Iyer",
+      "text": "We need more training data for the latency. Should we try a different approach?"
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the latency issues and expect LTV to improve next quarter."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Competition is asking about similar features. How should we differentiate our scalability?"
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the ML pipeline issues and expect MRR to improve next quarter."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Our accuracy is improving, showing 95% accuracy now."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about SAM, but our product-market fit metrics are strong."
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Competition is asking about similar features. How should we differentiate our SaaS metrics?"
+    },
+    {
+      "timestamp": "00:17:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the ML pipeline issues and expect ARR to improve next quarter."
+    },
+    {
+      "timestamp": "00:19:00",
+      "speaker": "Siddharth Iyer",
+      "text": "The model drift latency is concerning customers. We need to optimize."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Review ML pipeline optimization for improved accuracy",
+      "due_date": "2024-06-11",
+      "priority": "medium"
+    },
+    {
+      "assigned_to": "Siddharth Iyer",
+      "task": "Implement API latency improvements and performance monitoring",
+      "due_date": "2024-06-04",
+      "priority": "high"
+    }
+  ]
+}

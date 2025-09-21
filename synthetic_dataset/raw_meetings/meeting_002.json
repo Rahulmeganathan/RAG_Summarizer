@@ -1,0 +1,87 @@
+{
+  "meeting_id": "MTG_2024_01_26_002",
+  "meeting_date": "2024-01-26",
+  "meeting_time": "11:00",
+  "location": "InsureAI Office, Koramangala, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Kavya Reddy",
+      "role": "team"
+    }
+  ],
+  "topics": [
+    "Market Strategy & Competition Analysis",
+    "Customer Acquisition & Sales Pipeline"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the market strategy & competition analysis and where we stand."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Kavya Reddy",
+      "text": "We need more training data for the training data. Should we try a different approach?"
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The thing is... our accuracy is showing 94% accuracy, and the runway is improving."
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Kavya Reddy",
+      "text": "The training data latency is concerning customers. We need to optimize."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The equity timeline is tight, but we're confident about SaaS metrics."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Kavya Reddy",
+      "text": "Our training data is improving, showing 90% accuracy now."
+    },
+    {
+      "timestamp": "00:10:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The thing is... our model drift is showing 93% accuracy, and the SAM is improving."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Kavya Reddy",
+      "text": "We need more training data for the accuracy. Should we try a different approach?"
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about ARR, but our scalability metrics are strong."
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Kavya Reddy",
+      "text": "Our accuracy is improving, showing 93% accuracy now."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Review ML pipeline optimization for improved accuracy",
+      "due_date": "2024-02-16",
+      "priority": "medium"
+    },
+    {
+      "assigned_to": "Kavya Reddy",
+      "task": "Implement API latency improvements and performance monitoring",
+      "due_date": "2024-02-16",
+      "priority": "high"
+    }
+  ]
+}

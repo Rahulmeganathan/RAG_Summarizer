@@ -1,0 +1,77 @@
+{
+  "meeting_id": "MTG_2024_05_15_041",
+  "meeting_date": "2024-05-15",
+  "meeting_time": "09:30",
+  "location": "The Leela Palace Hotel, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Rajesh Gupta",
+      "role": "investor"
+    }
+  ],
+  "topics": [
+    "Product Demo & Technical Reviews",
+    "Regulatory Compliance Discussions"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I appreciate your time today. We've made significant progress on the regulatory compliance discussions front."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Rajesh Gupta",
+      "text": "Focus on unit economics first I'm seeing competition heat up in insurtech. What's your competitive moat and scalability?"
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the training data issues and expect churn to improve next quarter."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Rajesh Gupta",
+      "text": "I've seen this before The latency sounds promising, but show me the runway data."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The runway extension timeline is tight, but we're confident about product-market fit."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Rajesh Gupta",
+      "text": "Scale challenges are real What's your burn rate looking like? I need to see clear unit economics."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Actually, let me clarify... our accuracy is showing 93% accuracy, and the burn rate is improving."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Rajesh Gupta",
+      "text": "Scale challenges are real How do you plan to scale this across different insurance verticals? What's your burn rate?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Prepare detailed CAC and LTV analysis for Product Demo & Technical Reviews",
+      "due_date": "2024-05-22",
+      "priority": "high"
+    },
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Create multi-vertical scaling strategy document with TAM analysis",
+      "due_date": "2024-05-29",
+      "priority": "high"
+    }
+  ]
+}

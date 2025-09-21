@@ -1,0 +1,67 @@
+{
+  "meeting_id": "MTG_2024_05_14_039",
+  "meeting_date": "2024-05-14",
+  "meeting_time": "15:45",
+  "location": "Nexus Venture Partners Office, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Priya Sharma",
+      "role": "investor"
+    }
+  ],
+  "topics": [
+    "Investor Pitch & Feedback Sessions",
+    "Market Strategy & Competition Analysis"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I appreciate your time today. We've made significant progress on the investor pitch & feedback sessions front."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Priya Sharma",
+      "text": "What's your competitive moat? I'm seeing competition heat up in insurtech. What's your competitive moat and product-market fit?"
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The due diligence timeline is tight, but we're confident about SaaS metrics."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Priya Sharma",
+      "text": "What's your unit economics? I'm seeing competition heat up in insurtech. What's your competitive moat and user adoption?"
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The equity timeline is tight, but we're confident about scalability."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Priya Sharma",
+      "text": "What's your unit economics? The model drift sounds promising, but show me the MRR data."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Prepare detailed CAC and LTV analysis for Market Strategy & Competition Analysis",
+      "due_date": "2024-05-21",
+      "priority": "high"
+    },
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Create multi-vertical scaling strategy document with TAM analysis",
+      "due_date": "2024-05-28",
+      "priority": "high"
+    }
+  ]
+}

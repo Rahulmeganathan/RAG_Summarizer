@@ -1,0 +1,70 @@
+{
+  "meeting_id": "MTG_2024_05_08_037",
+  "meeting_date": "2024-05-08",
+  "meeting_time": "19:00",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Lakshmi Vasanth",
+      "role": "family"
+    },
+    {
+      "name": "Dr. Krishnan Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "AI Insurance POC Development"
+  ],
+  "meeting_type": "family",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I wanted to update you on how things are progressing with the company."
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Take care of yourself first. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Banking was stable. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance everything, but the investor meetings are crucial right now."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Have you eaten properly?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:13:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The stress is temporary. Once we close this funding, things will stabilize."
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Your health is more important. The uncertainty is hard on all of us. Do you have a backup plan?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Set boundaries for work hours and family time",
+      "due_date": "2024-05-11",
+      "priority": "medium"
+    }
+  ]
+}

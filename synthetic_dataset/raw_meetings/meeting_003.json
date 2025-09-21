@@ -1,0 +1,71 @@
+{
+  "meeting_id": "MTG_2024_01_27_003",
+  "meeting_date": "2024-01-27",
+  "meeting_time": "13:45",
+  "location": "InsureAI Office, Koramangala, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Kavya Reddy",
+      "role": "team"
+    }
+  ],
+  "topics": [
+    "Team Building & Hiring",
+    "Technology Infrastructure & Scaling"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the team building & hiring and where we stand."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Kavya Reddy",
+      "text": "We need more training data for the training data. Should we try a different approach?"
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Well, I think... our ML pipeline is showing 92% accuracy, and the ARR is improving."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Kavya Reddy",
+      "text": "Competition is asking about similar features. How should we differentiate our product-market fit?"
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the API integration issues and expect runway to improve next quarter."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Kavya Reddy",
+      "text": "We need more training data for the ML pipeline. Should we try a different approach?"
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the accuracy issues and expect LTV to improve next quarter."
+    },
+    {
+      "timestamp": "00:10:00",
+      "speaker": "Kavya Reddy",
+      "text": "Our training data is improving, showing 92% accuracy now."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Review ML pipeline optimization for improved accuracy",
+      "due_date": "2024-02-03",
+      "priority": "medium"
+    }
+  ]
+}

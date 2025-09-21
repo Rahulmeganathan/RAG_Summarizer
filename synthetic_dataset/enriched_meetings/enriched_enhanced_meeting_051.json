@@ -1,0 +1,376 @@
+{
+  "meeting_id": "MTG_2024_05_27_051",
+  "meeting_date": "2024-05-27",
+  "meeting_time": "20:30",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Lakshmi Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "Investor Pitch & Feedback Sessions"
+  ],
+  "meeting_type": "family",
+  "minutes": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand that my work schedule has been putting a strain on our family, and I don't want you to think that I'm prioritizing the business over our relationships. But I need you to understand the magnitude of the opportunity we're facing and why I believe this period of intense focus will ultimately benefit all of us. We're building something that could genuinely change the insurance industry in India. Every major insurance company struggles with claims processing - it's slow, expensive, and prone to errors. Our AI solution can automate 70% of that work while actually improving accuracy. If we can prove this at scale and secure the right funding, we're looking at a potential exit valuation of $100-200 million within the next three years. That would set up our family financially for life."
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "Lakshmi Vasanth",
+      "text": "I've lived through many economic ups and downs, and I've seen how quickly circumstances can change. While I admire your confidence in this business venture, I think it's important to have realistic expectations and backup plans. Life has a way of surprising us, and the most successful people are those who can adapt to changing circumstances. I'm not asking you to give up on your dreams, but I want you to be smart about managing risk. Can you pursue this opportunity while also maintaining some financial security? Perhaps you could consult or work part-time while building your business? There's wisdom in taking calculated risks rather than betting everything on a single outcome."
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "Arjun Vasanth",
+      "text": "I know the financial uncertainty is scary, and I take full responsibility for putting us in this position. Let me share exactly where we stand: we have enough savings to cover our personal expenses for four more months if I continue taking no salary from the company. The business has enough funding to operate for six months at current burn rates. If we close the contracts I mentioned, I can start taking a $8,000 monthly salary starting in January, which covers most of our household expenses. If we secure the Series A funding we're pursuing, I can normalize my salary and we can get back on track with our original plans - buying a house, starting a family, building the life we've always talked about. I understand that these are all 'ifs,' but they're realistic possibilities based on concrete opportunities we're actively pursuing."
+    },
+    {
+      "timestamp": "07:27",
+      "speaker": "Lakshmi Vasanth",
+      "text": "I see how hard Meera is trying to support you, and my heart goes out to her. She's managing all the household responsibilities while also working full-time to support both of you financially. That's a lot of pressure for a young woman. I watch her making excuses for your absence at family gatherings, explaining to relatives why you can't attend weddings or festivals. She's sacrificing her own social life and happiness to support your dreams. I hope you appreciate what a treasure she is and that you're not taking her support for granted. Marriage is a partnership, beta, and partnerships require balance and mutual consideration."
+    },
+    {
+      "timestamp": "09:45",
+      "speaker": "Arjun Vasanth",
+      "text": "You're right that I haven't been taking care of myself, and that's affecting all of us. I've been operating in constant crisis mode, reacting to whatever urgent issue comes up each day rather than taking a strategic approach to building the business and maintaining our relationship. Starting this week, I want to establish some non-negotiable boundaries: no work calls after 9 PM, no laptop use during family dinners, and at least one full day each weekend that's completely dedicated to us. I also think we should start seeing a counselor together - not because our marriage is in crisis, but because I want to make sure we're communicating effectively during this stressful period. Building a company shouldn't come at the expense of building our life together."
+    },
+    {
+      "timestamp": "12:34",
+      "speaker": "Lakshmi Vasanth",
+      "text": "I see how hard Meera is trying to support you, and my heart goes out to her. She's managing all the household responsibilities while also working full-time to support both of you financially. That's a lot of pressure for a young woman. I watch her making excuses for your absence at family gatherings, explaining to relatives why you can't attend weddings or festivals. She's sacrificing her own social life and happiness to support your dreams. I hope you appreciate what a treasure she is and that you're not taking her support for granted. Marriage is a partnership, beta, and partnerships require balance and mutual consideration."
+    },
+    {
+      "timestamp": "15:07",
+      "speaker": "Arjun Vasanth",
+      "text": "You're right that I haven't been taking care of myself, and that's affecting all of us. I've been operating in constant crisis mode, reacting to whatever urgent issue comes up each day rather than taking a strategic approach to building the business and maintaining our relationship. Starting this week, I want to establish some non-negotiable boundaries: no work calls after 9 PM, no laptop use during family dinners, and at least one full day each weekend that's completely dedicated to us. I also think we should start seeing a counselor together - not because our marriage is in crisis, but because I want to make sure we're communicating effectively during this stressful period. Building a company shouldn't come at the expense of building our life together."
+    },
+    {
+      "timestamp": "17:31",
+      "speaker": "Lakshmi Vasanth",
+      "text": "I've lived through many economic ups and downs, and I've seen how quickly circumstances can change. While I admire your confidence in this business venture, I think it's important to have realistic expectations and backup plans. Life has a way of surprising us, and the most successful people are those who can adapt to changing circumstances. I'm not asking you to give up on your dreams, but I want you to be smart about managing risk. Can you pursue this opportunity while also maintaining some financial security? Perhaps you could consult or work part-time while building your business? There's wisdom in taking calculated risks rather than betting everything on a single outcome."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Establish and implement clear work-life boundaries including no work calls after 9 PM and dedicated family time on weekends",
+      "due_date": "2024-05-30",
+      "priority": "high"
+    },
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Schedule weekly family meetings to provide transparent updates on business progress and address any concerns",
+      "due_date": "2024-06-03",
+      "priority": "medium"
+    }
+  ],
+  "enrichment_metadata": {
+    "processing_timestamp": "2025-09-21T16:54:58.999377",
+    "enrichment_version": "1.0_cpu_optimized",
+    "processing_time_seconds": 1758453898.9993773,
+    "models_used": {
+      "sentiment_analysis": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "entity_extraction": "regex_based_patterns"
+    },
+    "analysis_results": {
+      "overall_meeting_sentiment": -0.056936055421829224,
+      "stress_level": "high",
+      "business_optimism": 0.375,
+      "emotional_intensity": 0.3375,
+      "speaker_analyses": [
+        {
+          "timestamp": "00:00",
+          "speaker": "Arjun Vasanth",
+          "role": "founder",
+          "text_length": 800,
+          "word_count": 134,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.5134644508361816,
+            "sentiment_label": "positive",
+            "confidence": 0.5134644508361816,
+            "stress_indicators": [
+              "But I need you to understand the magnitude of the opportunity we're facing and why I believe this period of intense focus will ultimately benefit all of us",
+              "I understand that my work schedule has been putting a strain on our family, and I don't want you to think that I'm prioritizing the business over our relationships"
+            ],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.4
+          }
+        },
+        {
+          "timestamp": "02:27",
+          "speaker": "Lakshmi Vasanth",
+          "role": "family",
+          "text_length": 685,
+          "word_count": 112,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5189145803451538,
+            "stress_indicators": [],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.0
+          }
+        },
+        {
+          "timestamp": "04:45",
+          "speaker": "Arjun Vasanth",
+          "role": "founder",
+          "text_length": 839,
+          "word_count": 143,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.6752653121948242,
+            "stress_indicators": [],
+            "business_optimism": 0.0,
+            "emotional_intensity": 0.0
+          }
+        },
+        {
+          "timestamp": "07:27",
+          "speaker": "Lakshmi Vasanth",
+          "role": "family",
+          "text_length": 634,
+          "word_count": 105,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.4764726161956787,
+            "stress_indicators": [
+              "That's a lot of pressure for a young woman",
+              "eta, and partnerships require balance and mutual consideration.",
+              "king her support for granted. Marriage is a partnership, beta, and p"
+            ],
+            "business_optimism": 0.0,
+            "emotional_intensity": 0.6000000000000001
+          }
+        },
+        {
+          "timestamp": "09:45",
+          "speaker": "Arjun Vasanth",
+          "role": "founder",
+          "text_length": 764,
+          "word_count": 126,
+          "sentiment_analysis": {
+            "overall_sentiment": -0.4844764471054077,
+            "sentiment_label": "negative",
+            "confidence": 0.4844764471054077,
+            "stress_indicators": [
+              "I've been operating in constant crisis mode, reacting to whatever urgent issue comes up each day rather than taking a strategic approach to building the business and maintaining our relationship",
+              "or together - not because our marriage is in crisis, but because I w"
+            ],
+            "business_optimism": 0.0,
+            "emotional_intensity": 0.55
+          }
+        },
+        {
+          "timestamp": "12:34",
+          "speaker": "Lakshmi Vasanth",
+          "role": "family",
+          "text_length": 634,
+          "word_count": 105,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.4764726161956787,
+            "stress_indicators": [
+              "That's a lot of pressure for a young woman",
+              "eta, and partnerships require balance and mutual consideration.",
+              "king her support for granted. Marriage is a partnership, beta, and p"
+            ],
+            "business_optimism": 0.0,
+            "emotional_intensity": 0.6000000000000001
+          }
+        },
+        {
+          "timestamp": "15:07",
+          "speaker": "Arjun Vasanth",
+          "role": "founder",
+          "text_length": 764,
+          "word_count": 126,
+          "sentiment_analysis": {
+            "overall_sentiment": -0.4844764471054077,
+            "sentiment_label": "negative",
+            "confidence": 0.4844764471054077,
+            "stress_indicators": [
+              "I've been operating in constant crisis mode, reacting to whatever urgent issue comes up each day rather than taking a strategic approach to building the business and maintaining our relationship",
+              "or together - not because our marriage is in crisis, but because I w"
+            ],
+            "business_optimism": 0.0,
+            "emotional_intensity": 0.55
+          }
+        },
+        {
+          "timestamp": "17:31",
+          "speaker": "Lakshmi Vasanth",
+          "role": "family",
+          "text_length": 685,
+          "word_count": 112,
+          "sentiment_analysis": {
+            "overall_sentiment": 0.0,
+            "sentiment_label": "neutral",
+            "confidence": 0.5189145803451538,
+            "stress_indicators": [],
+            "business_optimism": 1.0,
+            "emotional_intensity": 0.0
+          }
+        }
+      ],
+      "key_insights": [
+        "Neutral to mixed sentiment throughout",
+        "High stress levels detected in conversation",
+        "Family discussion involving work-related stress"
+      ]
+    },
+    "entity_extraction": {
+      "business_metrics": [
+        {
+          "entity": "valuation",
+          "type": "business_metric",
+          "context": "ding, we're looking at a potential exit valuation of $100-200 million within the next thr",
+          "position": [
+            691,
+            700
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "$100",
+          "type": "monetary_value",
+          "context": "ooking at a potential exit valuation of $100-200 million within the next three years",
+          "position": [
+            704,
+            708
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "$8,000 m",
+          "type": "monetary_value",
+          "context": "racts I mentioned, I can start taking a $8,000 monthly salary starting in January, which",
+          "position": [
+            1896,
+            1904
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "70%",
+          "type": "percentage",
+          "context": "to errors. Our AI solution can automate 70% of that work while actually improving a",
+          "position": [
+            545,
+            548
+          ],
+          "confidence": 1.0
+        }
+      ],
+      "technical_terms": [
+        {
+          "entity": "AI",
+          "type": "technical_term",
+          "context": "ow, expensive, and prone to errors. Our AI solution can automate 70% of that work",
+          "position": [
+            520,
+            522
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "accuracy",
+          "type": "technical_term",
+          "context": "% of that work while actually improving accuracy. If we can prove this at scale and secu",
+          "position": [
+            587,
+            595
+          ],
+          "confidence": 1.0
+        }
+      ],
+      "financial_terms": [
+        {
+          "entity": "funding",
+          "type": "financial_term",
+          "context": "rove this at scale and secure the right funding, we're looking at a potential exit valu",
+          "position": [
+            648,
+            655
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "valuation",
+          "type": "financial_term",
+          "context": "ding, we're looking at a potential exit valuation of $100-200 million within the next thr",
+          "position": [
+            691,
+            700
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "Series A",
+          "type": "financial_term",
+          "context": "ur household expenses. If we secure the Series A funding we're pursuing, I can normalize",
+          "position": [
+            2001,
+            2009
+          ],
+          "confidence": 1.0
+        }
+      ],
+      "personal_entities": [
+        {
+          "entity": "family",
+          "type": "personal_entity",
+          "context": "hedule has been putting a strain on our family, and I don't want you to think that I'm",
+          "position": [
+            68,
+            74
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "Marriage",
+          "type": "personal_entity",
+          "context": "'re not taking her support for granted. Marriage is a partnership, beta, and partnership",
+          "position": [
+            2870,
+            2878
+          ],
+          "confidence": 1.0
+        },
+        {
+          "entity": "relationship",
+          "type": "personal_entity",
+          "context": "ilding the business and maintaining our relationship. Starting this week, I want to establis",
+          "position": [
+            3232,
+            3244
+          ],
+          "confidence": 1.0
+        }
+      ],
+      "timeline_entities": []
+    },
+    "meeting_statistics": {
+      "total_speakers": 2,
+      "total_exchanges": 8,
+      "total_word_count": 963,
+      "average_sentiment_confidence": 0.5185571312904358,
+      "stress_indicators_count": 12,
+      "business_entities_count": 4,
+      "technical_terms_count": 2
+    }
+  }
+}

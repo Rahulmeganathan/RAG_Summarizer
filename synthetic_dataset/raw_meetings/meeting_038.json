@@ -1,0 +1,87 @@
+{
+  "meeting_id": "MTG_2024_05_10_038",
+  "meeting_date": "2024-05-10",
+  "meeting_time": "12:00",
+  "location": "InsureAI Office, Koramangala, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Siddharth Iyer",
+      "role": "team"
+    }
+  ],
+  "topics": [
+    "Investor Pitch & Feedback Sessions",
+    "Product Demo & Technical Reviews"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I think we need to address both investor pitch & feedback sessions and product demo & technical reviews today."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Siddharth Iyer",
+      "text": "The accuracy latency is concerning customers. We need to optimize."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Well, I think... our ML pipeline is showing 93% accuracy, and the churn is improving."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Siddharth Iyer",
+      "text": "The ML pipeline latency is concerning customers. We need to optimize."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the latency issues and expect CAC to improve next quarter."
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Siddharth Iyer",
+      "text": "We need more training data for the latency. Should we try a different approach?"
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The Series A timeline is tight, but we're confident about POC."
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": "Siddharth Iyer",
+      "text": "We need more training data for the latency. Should we try a different approach?"
+    },
+    {
+      "timestamp": "00:18:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Actually, let me clarify... our accuracy is showing 92% accuracy, and the runway is improving."
+    },
+    {
+      "timestamp": "00:19:00",
+      "speaker": "Siddharth Iyer",
+      "text": "We need more training data for the accuracy. Should we try a different approach?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Review ML pipeline optimization for improved accuracy",
+      "due_date": "2024-05-17",
+      "priority": "medium"
+    },
+    {
+      "assigned_to": "Siddharth Iyer",
+      "task": "Implement API latency improvements and performance monitoring",
+      "due_date": "2024-05-24",
+      "priority": "high"
+    }
+  ]
+}

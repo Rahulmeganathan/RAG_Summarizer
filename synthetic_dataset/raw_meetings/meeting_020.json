@@ -1,0 +1,96 @@
+{
+  "meeting_id": "MTG_2024_04_09_020",
+  "meeting_date": "2024-04-09",
+  "meeting_time": "16:00",
+  "location": "The Leela Palace Hotel, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Rajesh Gupta",
+      "role": "investor"
+    },
+    {
+      "name": "David Chen",
+      "role": "investor"
+    }
+  ],
+  "topics": [
+    "AI Insurance POC Development",
+    "Investor Pitch & Feedback Sessions"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I appreciate your time today. We've made significant progress on the ai insurance poc development front."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Rajesh Gupta",
+      "text": "I've seen this before How do you plan to scale this across different insurance verticals? What's your TAM?"
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "David Chen",
+      "text": "Consider regional differences What's your CAC looking like? I need to see clear unit economics."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about burn rate, but our user adoption metrics are strong."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "David Chen",
+      "text": "How does this scale across markets? How do you plan to scale this across different insurance verticals? What's your LTV?"
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The Series A timeline is tight, but we're confident about POC."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Rajesh Gupta",
+      "text": "Scale challenges are real How do you plan to scale this across different insurance verticals? What's your ARR?"
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about runway, but our product-market fit metrics are strong."
+    },
+    {
+      "timestamp": "00:13:00",
+      "speaker": "David Chen",
+      "text": "How does this scale across markets? I'm seeing competition heat up in insurtech. What's your competitive moat and POC?"
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the model drift issues and expect CAC to improve next quarter."
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Rajesh Gupta",
+      "text": "Scale challenges are real What's your ARR looking like? I need to see clear unit economics."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Prepare detailed CAC and LTV analysis for AI Insurance POC Development",
+      "due_date": "2024-04-23",
+      "priority": "high"
+    },
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Create multi-vertical scaling strategy document with TAM analysis",
+      "due_date": "2024-04-23",
+      "priority": "high"
+    }
+  ]
+}

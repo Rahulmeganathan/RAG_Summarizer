@@ -1,0 +1,83 @@
+{
+  "meeting_id": "MTG_2024_05_26_049",
+  "meeting_date": "2024-05-26",
+  "meeting_time": "17:00",
+  "location": "Caf\u00e9 Coffee Day, HSR Layout",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Anita Krishnan",
+      "role": "mentor"
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "peer"
+    }
+  ],
+  "topics": [
+    "Team Building & Hiring",
+    "Technology Infrastructure & Scaling"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I think we need to address both team building & hiring and technology infrastructure & scaling today."
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Anita Krishnan",
+      "text": "Customer retention is more important than acquisition right now. Build for product-market fit."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Rohan Mehta",
+      "text": "The LTV struggle is real for all of us in insurtech."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the model drift issues and expect burn rate to improve next quarter."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Rohan Mehta",
+      "text": "Have you tried this approach for user adoption? It worked for us."
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about MRR, but our product-market fit metrics are strong."
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": "Anita Krishnan",
+      "text": "Focus on product-market fit first. I made similar mistakes in my early days."
+    },
+    {
+      "timestamp": "00:18:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Well, I think... our model drift is showing 90% accuracy, and the SAM is improving."
+    },
+    {
+      "timestamp": "00:21:00",
+      "speaker": "Anita Krishnan",
+      "text": "Don't scale too early. Make sure your training data is solid first."
+    },
+    {
+      "timestamp": "00:23:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The seed round timeline is tight, but we're confident about user adoption."
+    },
+    {
+      "timestamp": "00:26:00",
+      "speaker": "Anita Krishnan",
+      "text": "Customer retention is more important than acquisition right now. Build for scalability."
+    }
+  ],
+  "action_items": []
+}

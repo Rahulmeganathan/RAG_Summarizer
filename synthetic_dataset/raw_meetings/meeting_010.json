@@ -1,0 +1,70 @@
+{
+  "meeting_id": "MTG_2024_03_10_010",
+  "meeting_date": "2024-03-10",
+  "meeting_time": "09:00",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Lakshmi Vasanth",
+      "role": "family"
+    },
+    {
+      "name": "Dr. Krishnan Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "AI Insurance POC Development"
+  ],
+  "meeting_type": "family",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand your worries about our financial situation..."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Your health is more important. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Banking was stable. What happens to our home loan and savings if this doesn't work out?"
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance everything, but the investor meetings are crucial right now."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Your health is more important. What happens to our home loan and savings if this doesn't work out?"
+    },
+    {
+      "timestamp": "00:10:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance everything, but the investor meetings are crucial right now."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Have you eaten properly?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Set boundaries for work hours and family time",
+      "due_date": "2024-03-13",
+      "priority": "medium"
+    }
+  ]
+}

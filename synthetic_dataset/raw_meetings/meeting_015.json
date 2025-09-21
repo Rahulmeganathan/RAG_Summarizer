@@ -1,0 +1,76 @@
+{
+  "meeting_id": "MTG_2024_03_23_015",
+  "meeting_date": "2024-03-23",
+  "meeting_time": "17:45",
+  "location": "Nexus Venture Partners Office, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Priya Sharma",
+      "role": "investor"
+    },
+    {
+      "name": "Rajesh Gupta",
+      "role": "investor"
+    }
+  ],
+  "topics": [
+    "AI Insurance POC Development",
+    "Product Demo & Technical Reviews"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Thank you for taking this meeting. Our AI insurance POC is showing 92% accuracy in claims processing."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Priya Sharma",
+      "text": "What's your unit economics? How do you plan to scale this across different insurance verticals? What's your burn rate?"
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Rajesh Gupta",
+      "text": "Consider the market timing I'm seeing competition heat up in insurtech. What's your competitive moat and scalability?"
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The due diligence timeline is tight, but we're confident about product-market fit."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Priya Sharma",
+      "text": "I need to see the TAM analysis What's your burn rate looking like? I need to see clear unit economics."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the ML pipeline issues and expect TAM to improve next quarter."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Rajesh Gupta",
+      "text": "Scale challenges are real The model drift sounds promising, but show me the TAM data."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Prepare detailed CAC and LTV analysis for Product Demo & Technical Reviews",
+      "due_date": "2024-04-13",
+      "priority": "high"
+    },
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Create multi-vertical scaling strategy document with TAM analysis",
+      "due_date": "2024-04-13",
+      "priority": "high"
+    }
+  ]
+}

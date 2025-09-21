@@ -1,0 +1,163 @@
+{
+  "primary_character": {
+    "name": "Arjun Vasanth",
+    "role": "founder",
+    "background": "IIT graduate, ex-tech consultant, building InsureAI platform",
+    "personality": "Ambitious, technically strong, stressed about funding, family pressure",
+    "communication_style": "Technical precision, startup jargon, visible stress with investors",
+    "typical_phrases": [
+      "Our AI model is showing 94% accuracy in claims processing",
+      "The burn rate is concerning, but we're close to product-market fit",
+      "I know the long hours are affecting us, but this round is critical",
+      "The POC demonstrates clear ROI for insurance companies"
+    ],
+    "stress_indicators": ["hesitation", "time pressure", "confidence fluctuations"]
+  },
+  "investors": {
+    "Priya Sharma": {
+      "role": "investor",
+      "title": "Senior Partner at Nexus Venture Partners",
+      "style": "Data-driven, skeptical but fair, asks tough ROI questions",
+      "typical_phrases": [
+        "What's your unit economics?",
+        "Show me customer acquisition cost",
+        "I need to see the TAM analysis",
+        "What's your competitive moat?"
+      ]
+    },
+    "Rajesh Gupta": {
+      "role": "investor", 
+      "title": "Angel investor, ex-Flipkart executive",
+      "style": "Supportive but realistic, experience-focused",
+      "typical_phrases": [
+        "I've seen this before",
+        "Consider the market timing",
+        "Focus on unit economics first",
+        "Scale challenges are real"
+      ]
+    },
+    "David Chen": {
+      "role": "investor",
+      "title": "International VC from Singapore", 
+      "style": "Global perspective, scaling concerns, professional",
+      "typical_phrases": [
+        "How does this scale across markets?",
+        "Regulatory compliance?",
+        "What's the international expansion plan?",
+        "Consider regional differences"
+      ]
+    }
+  },
+  "family": {
+    "Meera Vasanth": {
+      "role": "family",
+      "title": "Arjun's wife, software engineer at TCS",
+      "style": "Supportive but worried about work-life balance and finances",
+      "typical_phrases": [
+        "You're working 16-hour days",
+        "What about our savings?",
+        "The stress is affecting your health",
+        "Can you take a break this weekend?"
+      ]
+    },
+    "Dr. Krishnan Vasanth": {
+      "role": "family",
+      "title": "Arjun's father, retired bank manager",
+      "style": "Traditional, security-focused, proud but concerned",
+      "typical_phrases": [
+        "Banking was stable",
+        "Are you sure about this risk?",
+        "What if this doesn't work out?",
+        "Have you considered a backup plan?"
+      ]
+    },
+    "Lakshmi Vasanth": {
+      "role": "family",
+      "title": "Arjun's mother, homemaker",
+      "style": "Emotional support, health concerns, practical wisdom",
+      "typical_phrases": [
+        "You look tired",
+        "Have you eaten properly?",
+        "Your health is more important",
+        "Take care of yourself first"
+      ]
+    }
+  },
+  "mentors": {
+    "Vikram Malhotra": {
+      "role": "mentor",
+      "title": "Ex-Paytm VP, now startup advisor",
+      "style": "Experienced guide, balanced perspective, practical advice",
+      "typical_phrases": [
+        "Focus on one vertical first",
+        "I made similar mistakes",
+        "Customer retention is key",
+        "Don't scale too early"
+      ]
+    },
+    "Anita Krishnan": {
+      "role": "mentor",
+      "title": "Female founder, scaled healthtech startup",
+      "style": "Empathetic, growth-focused, realistic about challenges",
+      "typical_phrases": [
+        "Investor rejections are normal",
+        "Build for retention first",
+        "Focus on product-market fit",
+        "Fundraising is a numbers game"
+      ]
+    }
+  },
+  "peers_team": {
+    "Rohan Mehta": {
+      "role": "peer",
+      "title": "Co-founder, CTO at rival insurtech startup",
+      "style": "Collaborative competitor, technical discussions, mutual support",
+      "typical_phrases": [
+        "We're facing similar ML challenges",
+        "Let's share learnings",
+        "The market is tough for all of us",
+        "Have you tried this approach?"
+      ]
+    },
+    "Kavya Reddy": {
+      "role": "team",
+      "title": "Lead ML Engineer at Arjun's company",
+      "style": "Technical expert, concerned about product direction",
+      "typical_phrases": [
+        "Model accuracy is improving",
+        "We need more training data",
+        "The API latency is concerning",
+        "Should we try a different architecture?"
+      ]
+    },
+    "Siddharth Iyer": {
+      "role": "team",
+      "title": "Head of Sales, former insurance industry veteran",
+      "style": "Sales-focused, customer feedback, market insights",
+      "typical_phrases": [
+        "Clients want faster claims processing",
+        "Competition is heating up",
+        "This feature will drive adoption",
+        "Customers are asking about pricing"
+      ]
+    }
+  },
+  "jargon_categories": {
+    "business_metrics": ["CAC", "LTV", "TAM", "SAM", "burn rate", "runway", "ARR", "MRR", "churn"],
+    "technical_terms": ["API integration", "ML pipeline", "model drift", "latency", "accuracy", "training data"],
+    "funding_terms": ["seed round", "Series A", "valuation", "equity", "runway extension", "due diligence"], 
+    "product_terms": ["MVP", "POC", "user adoption", "product-market fit", "scalability", "SaaS metrics"]
+  },
+  "topics": [
+    "AI Insurance POC Development",
+    "Investor Pitch & Feedback Sessions",
+    "Family Financial Concerns", 
+    "Product Demo & Technical Reviews",
+    "Market Strategy & Competition Analysis",
+    "Team Building & Hiring",
+    "Stress Management & Work-Life Balance",
+    "Regulatory Compliance Discussions",
+    "Customer Acquisition & Sales Pipeline",
+    "Technology Infrastructure & Scaling"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meeting_id": "MTG_2024_03_15_012",
+  "meeting_date": "2024-03-15",
+  "meeting_time": "10:00",
+  "location": "Video Call",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "peer"
+    }
+  ],
+  "topics": [
+    "Team Building & Hiring",
+    "Technology Infrastructure & Scaling"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the team building & hiring and where we stand."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Rohan Mehta",
+      "text": "Fundraising is tough right now. How's your valuation progress?"
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Actually, let me clarify... our model drift is showing 93% accuracy, and the LTV is improving."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Rohan Mehta",
+      "text": "We're facing similar ML pipeline challenges. Let's share learnings."
+    },
+    {
+      "timestamp": "00:10:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the model drift issues and expect churn to improve next quarter."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Rohan Mehta",
+      "text": "We're facing similar training data challenges. Let's share learnings."
+    },
+    {
+      "timestamp": "00:13:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about LTV, but our SaaS metrics metrics are strong."
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": "Rohan Mehta",
+      "text": "We're facing similar ML pipeline challenges. Let's share learnings."
+    }
+  ],
+  "action_items": []
+}

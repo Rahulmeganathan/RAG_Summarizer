@@ -1,0 +1,81 @@
+{
+  "meeting_id": "MTG_2024_05_18_045",
+  "meeting_date": "2024-05-18",
+  "meeting_time": "20:30",
+  "location": "Caf\u00e9 Coffee Day near home",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Meera Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "Stress Management & Work-Life Balance"
+  ],
+  "meeting_type": "mixed",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I think we need to address both family financial concerns and stress management & work-life balance today."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Meera Vasanth",
+      "text": "The stress is affecting your health. You've been working 80-hour weeks for months. This is affecting your health and our relationship."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance the business demands with our family needs."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Meera Vasanth",
+      "text": "Can you take a break this weekend?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance the business demands with our family needs."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Meera Vasanth",
+      "text": "Can you take a break this weekend?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Maybe we can set some boundaries - no work calls after 9 PM?"
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": "Meera Vasanth",
+      "text": "The stress is affecting your health. You've been working 80-hour weeks for months. This is affecting your health and our relationship."
+    },
+    {
+      "timestamp": "00:19:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The investor pressure is intense, but I don't want it to affect our relationship."
+    },
+    {
+      "timestamp": "00:21:00",
+      "speaker": "Meera Vasanth",
+      "text": "Can you take a break this weekend?. The uncertainty is hard on all of us. Do you have a backup plan?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Create work-life balance plan and share with family",
+      "due_date": "2024-05-25",
+      "priority": "medium"
+    }
+  ]
+}

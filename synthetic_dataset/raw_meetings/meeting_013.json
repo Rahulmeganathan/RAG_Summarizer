@@ -1,0 +1,61 @@
+{
+  "meeting_id": "MTG_2024_03_15_013",
+  "meeting_date": "2024-03-15",
+  "meeting_time": "20:30",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Dr. Krishnan Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "AI Insurance POC Development"
+  ],
+  "meeting_type": "family",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand your worries about our financial situation..."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Have you considered a backup plan?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The stress is temporary. Once we close this funding, things will stabilize."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "What if this doesn't work out?. What happens to our home loan and savings if this doesn't work out?"
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The stress is temporary. Once we close this funding, things will stabilize."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Banking was stable. What happens to our home loan and savings if this doesn't work out?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Set boundaries for work hours and family time",
+      "due_date": "2024-03-18",
+      "priority": "medium"
+    }
+  ]
+}

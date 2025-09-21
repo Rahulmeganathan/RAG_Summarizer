@@ -1,0 +1,89 @@
+{
+  "meeting_id": "MTG_2024_05_08_035",
+  "meeting_date": "2024-05-08",
+  "meeting_time": "19:00",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Dr. Krishnan Vasanth",
+      "role": "family"
+    },
+    {
+      "name": "Lakshmi Vasanth",
+      "role": "family"
+    },
+    {
+      "name": "Meera Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "Investor Pitch & Feedback Sessions"
+  ],
+  "meeting_type": "family",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand your worries about our financial situation..."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Are you sure about this risk?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Take care of yourself first. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Meera Vasanth",
+      "text": "You're working 16-hour days. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance everything, but the investor meetings are crucial right now."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Have you considered a backup plan?. What happens to our home loan and savings if this doesn't work out?"
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know the long hours are affecting us, but this round is critical for our future."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Meera Vasanth",
+      "text": "What about our savings?. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Give me three more months. If we don't see progress, I'll reconsider."
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Are you sure about this risk?. The uncertainty is hard on all of us. Do you have a backup plan?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Set boundaries for work hours and family time",
+      "due_date": "2024-05-11",
+      "priority": "medium"
+    }
+  ]
+}

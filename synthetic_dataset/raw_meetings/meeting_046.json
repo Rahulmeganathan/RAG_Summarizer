@@ -1,0 +1,54 @@
+{
+  "meeting_id": "MTG_2024_05_19_046",
+  "meeting_date": "2024-05-19",
+  "meeting_time": "09:45",
+  "location": "Video Call",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "peer"
+    }
+  ],
+  "topics": [
+    "Team Building & Hiring",
+    "Technology Infrastructure & Scaling"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I think we need to address both team building & hiring and technology infrastructure & scaling today."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Rohan Mehta",
+      "text": "We're facing similar API integration challenges. Let's share learnings."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the accuracy issues and expect CAC to improve next quarter."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Rohan Mehta",
+      "text": "Have you tried this approach for POC? It worked for us."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Actually, let me clarify... our model drift is showing 92% accuracy, and the CAC is improving."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Rohan Mehta",
+      "text": "We're facing similar model drift challenges. Let's share learnings."
+    }
+  ],
+  "action_items": []
+}

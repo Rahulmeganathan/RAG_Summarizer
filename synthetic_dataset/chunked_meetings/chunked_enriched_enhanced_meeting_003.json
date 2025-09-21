@@ -1,0 +1,84 @@
+[
+  {
+    "chunk_id": "MTG_2024_01_10_003_00:00",
+    "meeting_id": "MTG_2024_01_10_003",
+    "speaker": "Arjun Vasanth",
+    "role": "founder",
+    "text": "I've been thinking a lot about our conversation last week, and I realize I haven't been doing a good job of balancing my commitment to the business with my responsibilities to our family. The pressure from investors and the demands of building this company have been consuming me, but I don't want that to come at the expense of our relationship or my health. At the same time, I truly believe we're on the verge of something extraordinary with this AI insurance platform, and I'm struggling with how to manage both priorities effectively.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_02:03",
+    "meeting_id": "MTG_2024_01_10_003",
+    "speaker": "Anita Krishnan",
+    "role": "mentor",
+    "text": "Regarding fundraising, remember that rejection is part of the process. In our healthtech startup, we heard 'no' from 47 investors before finding the right partners. Each rejection taught us something valuable about our pitch, our market positioning, or our business model. Don't take it personally, and don't let it shake your confidence in the fundamentals of what you're building. However, do listen carefully to the patterns in investor feedback. If multiple investors are raising similar concerns, those concerns probably reflect real issues that need to be addressed. Are they questioning your market size? Your competitive positioning? Your team's ability to execute? Use this feedback to strengthen your business, not just your pitch.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_04:23",
+    "meeting_id": "MTG_2024_01_10_003",
+    "speaker": "Arjun Vasanth",
+    "role": "founder",
+    "text": "I appreciate those concerns, and let me address them directly with some specific data points. Our customer acquisition cost has actually been trending downward as we've refined our sales process - we're now at about $12,000 per enterprise customer, which compares favorably to the industry standard of $15-20K for B2B SaaS solutions in this space. The lifetime value calculation is admittedly complex in insurance because contracts tend to be multi-year with variable usage, but our pilot customers are processing an average of 1,200 claims per month through our platform, which translates to roughly $8,000 in monthly recurring revenue per customer. If we can maintain that usage level, we're looking at LTV of around $180,000 per customer over a three-year period. The challenge, as you've rightly identified, is scaling our sales efforts while maintaining these unit economics.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_07:21",
+    "meeting_id": "MTG_2024_01_10_003",
+    "speaker": "Anita Krishnan",
+    "role": "mentor",
+    "text": "Arjun, as someone who has navigated similar challenges in the healthtech space, I want you to know that what you're experiencing - the investor skepticism, the long sales cycles, the pressure on personal relationships - is completely normal for B2B startups targeting regulated industries. The key is maintaining perspective and not letting short-term setbacks derail your long-term vision. That said, I think you need to be more strategic about managing your energy and resources. Building a startup is a marathon, not a sprint, and burning out doesn't serve anyone. I've learned that the most successful entrepreneurs are those who can maintain their effectiveness over years, not months. That requires setting boundaries, delegating effectively, and taking care of your physical and mental health.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_10:22",
+    "meeting_id": "MTG_2024_01_10_003",
+    "speaker": "Arjun Vasanth",
+    "role": "founder",
+    "text": "Let me walk you through our regulatory strategy in detail, because I think this is actually one of our strongest moats. We've been working closely with IRDAI for the past year, and we have preliminary approval for our AI models under their current guidelines for automated claims processing. More importantly, we've been participating in their working group on AI governance in insurance, which means we have early insight into upcoming regulatory changes. Our compliance framework includes full audit trails for every AI decision, explainability features that allow human adjusters to understand why our algorithm reached specific conclusions, and fail-safes that escalate complex cases to human review. We're not just compliant with current regulations - we're helping to shape future regulatory frameworks for AI in insurance.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_13:23",
+    "meeting_id": "MTG_2024_01_10_003",
+    "speaker": "Anita Krishnan",
+    "role": "mentor",
+    "text": "Arjun, as someone who has navigated similar challenges in the healthtech space, I want you to know that what you're experiencing - the investor skepticism, the long sales cycles, the pressure on personal relationships - is completely normal for B2B startups targeting regulated industries. The key is maintaining perspective and not letting short-term setbacks derail your long-term vision. That said, I think you need to be more strategic about managing your energy and resources. Building a startup is a marathon, not a sprint, and burning out doesn't serve anyone. I've learned that the most successful entrepreneurs are those who can maintain their effectiveness over years, not months. That requires setting boundaries, delegating effectively, and taking care of your physical and mental health.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_16:21",
+    "meeting_id": "MTG_2024_01_10_003",
+    "speaker": "Arjun Vasanth",
+    "role": "founder",
+    "text": "You're absolutely right about the competitive landscape, and I've been thinking about this extensively. Our sustainable competitive advantage comes from three key areas: first, our deep integration with Indian regulatory requirements - we've spent 18 months working directly with IRDAI officials to ensure our AI models comply with local insurance regulations. Second, our data advantage - we've processed over 2.5 million historical claims from our pilot partners, which gives us training data that competitors simply don't have access to. Third, our technical architecture is genuinely differentiated - we're using a novel approach that combines transformer-based NLP models with computer vision for document analysis, wrapped in an ensemble framework that continuously learns from human feedback. It would take a competitor at least 12-18 months to replicate this technical stack, assuming they could access similar training data.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_19:31",
+    "meeting_id": "MTG_2024_01_10_003",
+    "speaker": "Anita Krishnan",
+    "role": "mentor",
+    "text": "Regarding fundraising, remember that rejection is part of the process. In our healthtech startup, we heard 'no' from 47 investors before finding the right partners. Each rejection taught us something valuable about our pitch, our market positioning, or our business model. Don't take it personally, and don't let it shake your confidence in the fundamentals of what you're building. However, do listen carefully to the patterns in investor feedback. If multiple investors are raising similar concerns, those concerns probably reflect real issues that need to be addressed. Are they questioning your market size? Your competitive positioning? Your team's ability to execute? Use this feedback to strengthen your business, not just your pitch.",
+    "type": "minute"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_insight_1",
+    "meeting_id": "MTG_2024_01_10_003",
+    "text": "Neutral to mixed sentiment throughout",
+    "type": "key_insight"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_insight_2",
+    "meeting_id": "MTG_2024_01_10_003",
+    "text": "High stress levels detected in conversation",
+    "type": "key_insight"
+  },
+  {
+    "chunk_id": "MTG_2024_01_10_003_insight_3",
+    "meeting_id": "MTG_2024_01_10_003",
+    "text": "Business pressure affecting emotional state",
+    "type": "key_insight"
+  }
+]

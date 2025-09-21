@@ -1,0 +1,89 @@
+{
+  "meeting_id": "MTG_2024_03_07_007",
+  "meeting_date": "2024-03-07",
+  "meeting_time": "21:30",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Dr. Krishnan Vasanth",
+      "role": "family"
+    },
+    {
+      "name": "Meera Vasanth",
+      "role": "family"
+    },
+    {
+      "name": "Lakshmi Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "AI Insurance POC Development"
+  ],
+  "meeting_type": "family",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know you're all concerned about the long hours I've been putting in..."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Banking was stable. What happens to our home loan and savings if this doesn't work out?"
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Meera Vasanth",
+      "text": "What about our savings?. You've been working 80-hour weeks for months. This is affecting your health and our relationship."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "You look tired. You've been working 80-hour weeks for months. This is affecting your health and our relationship."
+    },
+    {
+      "timestamp": "00:10:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know the long hours are affecting us, but this round is critical for our future."
+    },
+    {
+      "timestamp": "00:13:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Your health is more important. What happens to our home loan and savings if this doesn't work out?"
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know the long hours are affecting us, but this round is critical for our future."
+    },
+    {
+      "timestamp": "00:19:00",
+      "speaker": "Meera Vasanth",
+      "text": "Can you take a break this weekend?. You've been working 80-hour weeks for months. This is affecting your health and our relationship."
+    },
+    {
+      "timestamp": "00:22:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance everything, but the investor meetings are crucial right now."
+    },
+    {
+      "timestamp": "00:25:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Your health is more important. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Set boundaries for work hours and family time",
+      "due_date": "2024-03-10",
+      "priority": "medium"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meeting_id": "MTG_2024_05_14_040",
+  "meeting_date": "2024-05-14",
+  "meeting_time": "13:45",
+  "location": "Caf\u00e9 Coffee Day, HSR Layout",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Anita Krishnan",
+      "role": "mentor"
+    }
+  ],
+  "topics": [
+    "AI Insurance POC Development",
+    "Investor Pitch & Feedback Sessions"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the ai insurance poc development and where we stand."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Anita Krishnan",
+      "text": "Don't scale too early. Make sure your API integration is solid first."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The runway extension timeline is tight, but we're confident about POC."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Anita Krishnan",
+      "text": "Investor rejections are normal. Focus on improving your LTV metrics."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the model drift issues and expect CAC to improve next quarter."
+    },
+    {
+      "timestamp": "00:10:00",
+      "speaker": "Anita Krishnan",
+      "text": "Don't scale too early. Make sure your API integration is solid first."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The due diligence timeline is tight, but we're confident about product-market fit."
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Anita Krishnan",
+      "text": "Focus on MVP first. I made similar mistakes in my early days."
+    }
+  ],
+  "action_items": []
+}

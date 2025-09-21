@@ -1,0 +1,54 @@
+{
+  "meeting_id": "MTG_2024_05_26_048",
+  "meeting_date": "2024-05-26",
+  "meeting_time": "14:00",
+  "location": "The Toit Brewpub, Indiranagar",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Anita Krishnan",
+      "role": "mentor"
+    }
+  ],
+  "topics": [
+    "Team Building & Hiring",
+    "Technology Infrastructure & Scaling"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I think we need to address both team building & hiring and technology infrastructure & scaling today."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Anita Krishnan",
+      "text": "Don't scale too early. Make sure your ML pipeline is solid first."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the accuracy issues and expect churn to improve next quarter."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Anita Krishnan",
+      "text": "Customer retention is more important than acquisition right now. Build for scalability."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Actually, let me clarify... our training data is showing 92% accuracy, and the SAM is improving."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Anita Krishnan",
+      "text": "Focus on user adoption first. I made similar mistakes in my early days."
+    }
+  ],
+  "action_items": []
+}

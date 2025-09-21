@@ -1,0 +1,61 @@
+{
+  "meeting_id": "MTG_2024_05_30_051",
+  "meeting_date": "2024-05-30",
+  "meeting_time": "21:30",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Dr. Krishnan Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Stress Management & Work-Life Balance",
+    "AI Insurance POC Development"
+  ],
+  "meeting_type": "family",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know you're all concerned about the long hours I've been putting in..."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Have you considered a backup plan?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Give me three more months. If we don't see progress, I'll reconsider."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Have you considered a backup plan?. You've been working 80-hour weeks for months. This is affecting your health and our relationship."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know the long hours are affecting us, but this round is critical for our future."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "Are you sure about this risk?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Set boundaries for work hours and family time",
+      "due_date": "2024-06-02",
+      "priority": "medium"
+    }
+  ]
+}

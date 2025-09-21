@@ -1,0 +1,86 @@
+{
+  "meeting_id": "MTG_2024_04_11_022",
+  "meeting_date": "2024-04-11",
+  "meeting_time": "15:00",
+  "location": "Video Call (Singapore)",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "David Chen",
+      "role": "investor"
+    },
+    {
+      "name": "Vikram Malhotra",
+      "role": "mentor"
+    }
+  ],
+  "topics": [
+    "Investor Pitch & Feedback Sessions",
+    "Market Strategy & Competition Analysis"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I appreciate your time today. We've made significant progress on the market strategy & competition analysis front."
+    },
+    {
+      "timestamp": "00:03:00",
+      "speaker": "David Chen",
+      "text": "Consider regional differences What's your MRR looking like? I need to see clear unit economics."
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": "Vikram Malhotra",
+      "text": "Investor rejections are normal. Focus on improving your runway metrics."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The runway extension timeline is tight, but we're confident about scalability."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Vikram Malhotra",
+      "text": "Investor rejections are normal. Focus on improving your LTV metrics."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the training data issues and expect burn rate to improve next quarter."
+    },
+    {
+      "timestamp": "00:13:00",
+      "speaker": "David Chen",
+      "text": "What's the international expansion plan? I'm seeing competition heat up in insurtech. What's your competitive moat and scalability?"
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The due diligence timeline is tight, but we're confident about SaaS metrics."
+    },
+    {
+      "timestamp": "00:17:00",
+      "speaker": "Vikram Malhotra",
+      "text": "Customer retention is more important than acquisition right now. Build for POC."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Prepare detailed CAC and LTV analysis for Investor Pitch & Feedback Sessions",
+      "due_date": "2024-05-02",
+      "priority": "high"
+    },
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Create multi-vertical scaling strategy document with TAM analysis",
+      "due_date": "2024-05-02",
+      "priority": "high"
+    }
+  ]
+}

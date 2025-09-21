@@ -1,0 +1,63 @@
+{
+  "meeting_id": "MTG_2024_06_20_054",
+  "meeting_date": "2024-06-20",
+  "meeting_time": "12:15",
+  "location": "Video Call",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Anita Krishnan",
+      "role": "mentor"
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "peer"
+    }
+  ],
+  "topics": [
+    "Customer Acquisition & Sales Pipeline",
+    "Market Strategy & Competition Analysis"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I think we need to address both customer acquisition & sales pipeline and market strategy & competition analysis today."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Anita Krishnan",
+      "text": "Don't scale too early. Make sure your accuracy is solid first."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Rohan Mehta",
+      "text": "We're facing similar API integration challenges. Let's share learnings."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The Series A timeline is tight, but we're confident about SaaS metrics."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Anita Krishnan",
+      "text": "Don't scale too early. Make sure your latency is solid first."
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Well, I think... our model drift is showing 90% accuracy, and the SAM is improving."
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": "Rohan Mehta",
+      "text": "Fundraising is tough right now. How's your runway extension progress?"
+    }
+  ],
+  "action_items": []
+}

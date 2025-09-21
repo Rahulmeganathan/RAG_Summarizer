@@ -1,0 +1,55 @@
+{
+  "generation_date": "2025-09-21T15:41:25.270272",
+  "total_meetings": 55,
+  "date_range": {
+    "start": "2024-01-18",
+    "end": "2024-06-25"
+  },
+  "meeting_type_distribution": {
+    "family": 11,
+    "business": 35,
+    "mixed": 9
+  },
+  "participant_appearances": {
+    "Meera Vasanth (family)": 15,
+    "Rohan Mehta (peer)": 12,
+    "Dr. Krishnan Vasanth (family)": 10,
+    "Lakshmi Vasanth (family)": 8,
+    "Anita Krishnan (mentor)": 7,
+    "Rajesh Gupta (investor)": 7,
+    "Kavya Reddy (team)": 6,
+    "Siddharth Iyer (team)": 6,
+    "Vikram Malhotra (mentor)": 5,
+    "Priya Sharma (investor)": 3,
+    "David Chen (investor)": 3
+  },
+  "role_distribution": {
+    "family": 33,
+    "team": 12,
+    "mentor": 12,
+    "peer": 12,
+    "investor": 13
+  },
+  "topic_frequency": {
+    "Family Financial Concerns": 18,
+    "AI Insurance POC Development": 22,
+    "Market Strategy & Competition Analysis": 9,
+    "Customer Acquisition & Sales Pipeline": 6,
+    "Team Building & Hiring": 7,
+    "Technology Infrastructure & Scaling": 9,
+    "Regulatory Compliance Discussions": 4,
+    "Stress Management & Work-Life Balance": 11,
+    "Investor Pitch & Feedback Sessions": 15,
+    "Product Demo & Technical Reviews": 9
+  },
+  "total_action_items": 60,
+  "average_action_items_per_meeting": 1.09,
+  "meetings_per_month": {
+    "1": 3,
+    "2": 2,
+    "3": 11,
+    "4": 15,
+    "5": 20,
+    "6": 4
+  }
+}

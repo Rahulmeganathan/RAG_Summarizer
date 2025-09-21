@@ -1,0 +1,45 @@
+{
+  "phase1_enrichment_summary": {
+    "processing_completed": "2025-09-21T16:55:15.389928",
+    "statistics": {
+      "total_meetings_found": 55,
+      "meetings_successfully_processed": 55,
+      "total_speakers_analyzed": 627,
+      "success_rate_percentage": 100.0,
+      "total_processing_time_seconds": 173.47,
+      "average_time_per_meeting_seconds": 3.15
+    },
+    "models_used": {
+      "sentiment_analysis": {
+        "model": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+        "framework": "transformers/pytorch",
+        "device": "cpu",
+        "optimization": "cpu_optimized_pipeline"
+      },
+      "entity_extraction": {
+        "method": "regex_pattern_matching",
+        "patterns": [
+          "business_metrics",
+          "technical_terms",
+          "financial_terms",
+          "personal_entities",
+          "timeline_entities"
+        ]
+      }
+    },
+    "enrichment_features": [
+      "Speaker-level sentiment analysis",
+      "Business context sentiment scoring",
+      "Stress indicator detection",
+      "Emotional intensity measurement",
+      "Business entity extraction",
+      "Technical term identification",
+      "Financial term detection",
+      "Personal entity recognition",
+      "Timeline entity extraction",
+      "Meeting-level aggregated metrics",
+      "Key insight generation"
+    ],
+    "errors": []
+  }
+}

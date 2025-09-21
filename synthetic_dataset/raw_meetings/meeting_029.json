@@ -1,0 +1,71 @@
+{
+  "meeting_id": "MTG_2024_04_27_029",
+  "meeting_date": "2024-04-27",
+  "meeting_time": "20:00",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Meera Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "Stress Management & Work-Life Balance"
+  ],
+  "meeting_type": "mixed",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the family financial concerns and where we stand."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Meera Vasanth",
+      "text": "You're working 16-hour days. You've been working 80-hour weeks for months. This is affecting your health and our relationship."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I appreciate your patience. This phase won't last forever."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Meera Vasanth",
+      "text": "Can you take a break this weekend?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I'm trying to balance the business demands with our family needs."
+    },
+    {
+      "timestamp": "00:13:00",
+      "speaker": "Meera Vasanth",
+      "text": "What about our savings?. What happens to our home loan and savings if this doesn't work out?"
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I appreciate your patience. This phase won't last forever."
+    },
+    {
+      "timestamp": "00:17:00",
+      "speaker": "Meera Vasanth",
+      "text": "Can you take a break this weekend?. The uncertainty is hard on all of us. Do you have a backup plan?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Create work-life balance plan and share with family",
+      "due_date": "2024-05-04",
+      "priority": "medium"
+    }
+  ]
+}

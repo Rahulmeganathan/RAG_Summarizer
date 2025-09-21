@@ -1,0 +1,83 @@
+{
+  "meeting_id": "MTG_2024_04_27_030",
+  "meeting_date": "2024-04-27",
+  "meeting_time": "13:30",
+  "location": "Caf\u00e9 Coffee Day, HSR Layout",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Anita Krishnan",
+      "role": "mentor"
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "peer"
+    }
+  ],
+  "topics": [
+    "AI Insurance POC Development",
+    "Product Demo & Technical Reviews"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I think we need to address both ai insurance poc development and product demo & technical reviews today."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Anita Krishnan",
+      "text": "Customer retention is more important than acquisition right now. Build for POC."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Rohan Mehta",
+      "text": "Have you tried this approach for user adoption? It worked for us."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Well, I think... our accuracy is showing 90% accuracy, and the burn rate is improving."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Anita Krishnan",
+      "text": "Don't scale too early. Make sure your training data is solid first."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Actually, let me clarify... our training data is showing 93% accuracy, and the ARR is improving."
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Anita Krishnan",
+      "text": "Don't scale too early. Make sure your ML pipeline is solid first."
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the accuracy issues and expect ARR to improve next quarter."
+    },
+    {
+      "timestamp": "00:19:00",
+      "speaker": "Rohan Mehta",
+      "text": "We're facing similar ML pipeline challenges. Let's share learnings."
+    },
+    {
+      "timestamp": "00:22:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the latency issues and expect burn rate to improve next quarter."
+    },
+    {
+      "timestamp": "00:24:00",
+      "speaker": "Anita Krishnan",
+      "text": "Investor rejections are normal. Focus on improving your SAM metrics."
+    }
+  ],
+  "action_items": []
+}

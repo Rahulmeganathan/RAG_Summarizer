@@ -1,0 +1,90 @@
+{
+  "meeting_id": "MTG_2024_04_04_017",
+  "meeting_date": "2024-04-04",
+  "meeting_time": "20:00",
+  "location": "Home, Whitefield, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Lakshmi Vasanth",
+      "role": "family"
+    },
+    {
+      "name": "Dr. Krishnan Vasanth",
+      "role": "family"
+    }
+  ],
+  "topics": [
+    "Family Financial Concerns",
+    "Investor Pitch & Feedback Sessions"
+  ],
+  "meeting_type": "family",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand your worries about our financial situation..."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "You look tired. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "What if this doesn't work out?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know the long hours are affecting us, but this round is critical for our future."
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Have you eaten properly?. What happens to our home loan and savings if this doesn't work out?"
+    },
+    {
+      "timestamp": "00:10:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know the long hours are affecting us, but this round is critical for our future."
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Dr. Krishnan Vasanth",
+      "text": "What if this doesn't work out?. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know the long hours are affecting us, but this round is critical for our future."
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Your health is more important. The uncertainty is hard on all of us. Do you have a backup plan?"
+    },
+    {
+      "timestamp": "00:18:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I know the long hours are affecting us, but this round is critical for our future."
+    },
+    {
+      "timestamp": "00:19:00",
+      "speaker": "Lakshmi Vasanth",
+      "text": "Have you eaten properly?. I'm worried about the stress you're under. Can you at least take Sundays off?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Set boundaries for work hours and family time",
+      "due_date": "2024-04-07",
+      "priority": "medium"
+    }
+  ]
+}

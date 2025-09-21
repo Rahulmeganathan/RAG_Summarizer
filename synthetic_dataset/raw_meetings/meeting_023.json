@@ -1,0 +1,90 @@
+{
+  "meeting_id": "MTG_2024_04_12_023",
+  "meeting_date": "2024-04-12",
+  "meeting_time": "13:45",
+  "location": "The Leela Palace Hotel, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Rajesh Gupta",
+      "role": "investor"
+    },
+    {
+      "name": "Vikram Malhotra",
+      "role": "mentor"
+    }
+  ],
+  "topics": [
+    "AI Insurance POC Development",
+    "Product Demo & Technical Reviews"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Thanks for the opportunity to present. Our API integration is now handling real-world insurance data."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Rajesh Gupta",
+      "text": "Scale challenges are real I'm seeing competition heat up in insurtech. What's your competitive moat and POC?"
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Vikram Malhotra",
+      "text": "Investor rejections are normal. Focus on improving your burn rate metrics."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Well, I think... our model drift is showing 92% accuracy, and the ARR is improving."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Rajesh Gupta",
+      "text": "Scale challenges are real I'm seeing competition heat up in insurtech. What's your competitive moat and SaaS metrics?"
+    },
+    {
+      "timestamp": "00:12:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about CAC, but our POC metrics are strong."
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Rajesh Gupta",
+      "text": "I've seen this before The accuracy sounds promising, but show me the burn rate data."
+    },
+    {
+      "timestamp": "00:18:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The valuation timeline is tight, but we're confident about product-market fit."
+    },
+    {
+      "timestamp": "00:20:00",
+      "speaker": "Vikram Malhotra",
+      "text": "Focus on scalability first. I made similar mistakes in my early days."
+    },
+    {
+      "timestamp": "00:23:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about LTV, but our product-market fit metrics are strong."
+    },
+    {
+      "timestamp": "00:25:00",
+      "speaker": "Vikram Malhotra",
+      "text": "Focus on SaaS metrics first. I made similar mistakes in my early days."
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Prepare detailed CAC and LTV analysis for Product Demo & Technical Reviews",
+      "due_date": "2024-04-19",
+      "priority": "high"
+    }
+  ]
+}

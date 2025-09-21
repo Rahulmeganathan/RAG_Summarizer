@@ -1,0 +1,77 @@
+{
+  "meeting_id": "MTG_2024_05_16_043",
+  "meeting_date": "2024-05-16",
+  "meeting_time": "15:15",
+  "location": "InsureAI Office, Koramangala, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Siddharth Iyer",
+      "role": "team"
+    }
+  ],
+  "topics": [
+    "Customer Acquisition & Sales Pipeline",
+    "Market Strategy & Competition Analysis"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the customer acquisition & sales pipeline and where we stand."
+    },
+    {
+      "timestamp": "00:01:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Our latency is improving, showing 91% accuracy now."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the ML pipeline issues and expect runway to improve next quarter."
+    },
+    {
+      "timestamp": "00:06:00",
+      "speaker": "Siddharth Iyer",
+      "text": "We need more training data for the ML pipeline. Should we try a different approach?"
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The equity timeline is tight, but we're confident about product-market fit."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Siddharth Iyer",
+      "text": "We need more training data for the API integration. Should we try a different approach?"
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the latency issues and expect runway to improve next quarter."
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Competition is asking about similar features. How should we differentiate our scalability?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Review ML pipeline optimization for improved accuracy",
+      "due_date": "2024-05-23",
+      "priority": "medium"
+    },
+    {
+      "assigned_to": "Siddharth Iyer",
+      "task": "Implement API latency improvements and performance monitoring",
+      "due_date": "2024-05-30",
+      "priority": "high"
+    }
+  ]
+}

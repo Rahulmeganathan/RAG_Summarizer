@@ -1,0 +1,96 @@
+{
+  "meeting_id": "MTG_2024_04_15_024",
+  "meeting_date": "2024-04-15",
+  "meeting_time": "17:00",
+  "location": "InsureAI Office, Koramangala, Bangalore",
+  "participants": [
+    {
+      "name": "Arjun Vasanth",
+      "role": "founder"
+    },
+    {
+      "name": "Kavya Reddy",
+      "role": "team"
+    },
+    {
+      "name": "Siddharth Iyer",
+      "role": "team"
+    }
+  ],
+  "topics": [
+    "Regulatory Compliance Discussions",
+    "Customer Acquisition & Sales Pipeline"
+  ],
+  "meeting_type": "business",
+  "minutes": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Arjun Vasanth",
+      "text": "Let's discuss the regulatory compliance discussions and where we stand."
+    },
+    {
+      "timestamp": "00:02:00",
+      "speaker": "Kavya Reddy",
+      "text": "The accuracy latency is concerning customers. We need to optimize."
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Competition is asking about similar features. How should we differentiate our scalability?"
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The equity timeline is tight, but we're confident about user adoption."
+    },
+    {
+      "timestamp": "00:09:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Our ML pipeline is improving, showing 92% accuracy now."
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Arjun Vasanth",
+      "text": "The Series A timeline is tight, but we're confident about product-market fit."
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Our model drift is improving, showing 89% accuracy now."
+    },
+    {
+      "timestamp": "00:17:00",
+      "speaker": "Arjun Vasanth",
+      "text": "We're addressing the training data issues and expect TAM to improve next quarter."
+    },
+    {
+      "timestamp": "00:19:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Our training data is improving, showing 86% accuracy now."
+    },
+    {
+      "timestamp": "00:22:00",
+      "speaker": "Arjun Vasanth",
+      "text": "I understand the concerns about SAM, but our MVP metrics are strong."
+    },
+    {
+      "timestamp": "00:24:00",
+      "speaker": "Siddharth Iyer",
+      "text": "Competition is asking about similar features. How should we differentiate our scalability?"
+    }
+  ],
+  "action_items": [
+    {
+      "assigned_to": "Arjun Vasanth",
+      "task": "Review ML pipeline optimization for improved accuracy",
+      "due_date": "2024-04-29",
+      "priority": "medium"
+    },
+    {
+      "assigned_to": "Siddharth Iyer",
+      "task": "Implement API latency improvements and performance monitoring",
+      "due_date": "2024-05-06",
+      "priority": "high"
+    }
+  ]
+}
